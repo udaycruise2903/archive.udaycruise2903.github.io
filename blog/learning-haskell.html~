@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Learning Haskell</title>
+<meta name="generator" content="Org mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Learning Haskell</h1>
+
+<div id="outline-container-orgad16b86" class="outline-2">
+<h2 id="orgad16b86">Books</h2>
+<div class="outline-text-2" id="text-orgad16b86">
+</div>
+<ul class="org-ul">
+<li><a id="org9eb0c74"></a>Learn you a Haskell for Great Good<br />
+<div class="outline-text-6" id="text-org9eb0c74">
+<p>
+Consider reading this book along with exercises(from haskell mooc).
+</p>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-orgba3b3f6" class="outline-2">
+<h2 id="orgba3b3f6">Exercises</h2>
+<div class="outline-text-2" id="text-orgba3b3f6">
+</div>
+<ul class="org-ul">
+<li><a id="org6dfa86e"></a>learn4haskell<br /></li>
+<li><a id="org5ac1179"></a>haskell-mooc<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org27deb56" class="outline-2">
+<h2 id="org27deb56">Conferences</h2>
+<div class="outline-text-2" id="text-org27deb56">
+</div>
+<ul class="org-ul">
+<li><a id="org2b24cdc"></a>Functional Conference 2022<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org8586af3" class="outline-2">
+<h2 id="org8586af3">Mailing Lists</h2>
+<div class="outline-text-2" id="text-org8586af3">
+</div>
+<ul class="org-ul">
+<li><a id="orgbc850f2"></a><a href="https://haskellweekly.news/">haskellweekly</a><br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org668cdf5" class="outline-2">
+<h2 id="org668cdf5">Good Articles/Blogs</h2>
+<div class="outline-text-2" id="text-org668cdf5">
+</div>
+<ul class="org-ul">
+<li><a id="orgaa4bc77"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html"> Functor, Applicatives and Monads in pictures </a><br /></li>
+</ul>
+</div>
+
+<div id="outline-container-orgec9eb5c" class="outline-2">
+<h2 id="orgec9eb5c">To read</h2>
+</div>
+
+<div id="outline-container-org2e90c7b" class="outline-2">
+<h2 id="org2e90c7b">Podcasts</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
+</div>
+</body>
+</html>
