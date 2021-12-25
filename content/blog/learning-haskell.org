@@ -1,0 +1,27 @@
+#+title: Learning Haskell
+
+** Books
+
+****** Learn you a Haskell for Great Good
+     Consider reading this book along with exercises(from haskell mooc).
+
+** Exercises
+
+****** learn4haskell
+****** haskell-mooc
+
+** Conferences
+
+****** Functional Conference 2022
+
+** Mailing Lists
+
+****** [[https://haskellweekly.news/][haskellweekly]]
+
+** Good Articles/Blogs
+
+****** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][ Functor, Applicatives and Monads in pictures ]]
+
+** To read
+
+** Podcasts

@@ -1,0 +1,8 @@
+#+title: Uday's Blog
+
+****** Welcome to my personal blog
+     Hi, I am Uday Kiran(emacs and Haskell enthusiast)
+
+***** Blog
+
+******* [[./blog/learning-haskell.org][Learning Haskell]]
