@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Softwares that i use</title>
+<meta name="generator" content="Org mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Softwares that i use</h1>
+
+<div id="outline-container-orgb14947c" class="outline-2">
+<h2 id="orgb14947c">Archlinux</h2>
+<div class="outline-text-2" id="text-orgb14947c">
+</div>
+<ul class="org-ul">
+<li><a id="org3b035db"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
+<li><a id="org22e7bc6"></a>b43-firmware(driver)<br /></li>
+<li><a id="orgd72dadf"></a>NetworkManager<br /></li>
+<li><a id="org917a477"></a>mpv<br /></li>
+<li><a id="orgdd6c575"></a>udiskie<br /></li>
+<li><a id="org4e606a8"></a>ntfs-3g(driver)<br /></li>
+<li><a id="orgc4c562d"></a>pavucontrol<br /></li>
+<li><a id="org34047ff"></a>transmission-gtk<br /></li>
+<li><a id="orgdfa6239"></a>lightdm(lightdm-gtk-greeter)<br /></li>
+<li><a id="org9008b6c"></a>accountsservice<br /></li>
+<li><a id="org44ed568"></a>yay<br /></li>
+<li><a id="org5d2f570"></a>nitrogen<br /></li>
+<li><a id="orgcf166eb"></a>brave<br /></li>
+<li><a id="org4904d89"></a>qutebrowser, nyxt browser<br /></li>
+<li><a id="org4a1fb2b"></a>light<br /></li>
+<li><a id="org295d238"></a>pulseaudio<br /></li>
+<li><a id="org1dbacc7"></a>touchpad-indicator<br /></li>
+<li><a id="org3894e13"></a>SimpleScreenRecorder<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-orgf7c0bff" class="outline-2">
+<h2 id="orgf7c0bff">Emacs</h2>
+</div>
+<div id="outline-container-org250a342" class="outline-2">
+<h2 id="org250a342">ghcup</h2>
+<div class="outline-text-2" id="text-org250a342">
+</div>
+<ul class="org-ul">
+<li><a id="org050bf5d"></a>stack<br /></li>
+<li><a id="org123099b"></a>cabal<br /></li>
+<li><a id="orgdfdc291"></a>ghci<br /></li>
+</ul>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
+</div>
+</body>
+</html>

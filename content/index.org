@@ -5,4 +5,5 @@
 
 ***** Blog
 
-******* [[./blog/learning-haskell.org][Learning Haskell]]
+********** [[./blog/learning-haskell.org][Learning Haskell]]
+********** [[./blog/softwares-that-i-use.org][Softwares that i use]]

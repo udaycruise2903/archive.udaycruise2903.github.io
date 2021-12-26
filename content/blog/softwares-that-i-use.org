@@ -1,0 +1,29 @@
+#+title: Softwares that i use
+
+****** Archlinux
+
+********* xorg xorg-xinit xorg-xmodmap
+********* b43-firmware(driver)
+********* NetworkManager
+********* mpv
+********* udiskie
+********* ntfs-3g(driver)
+********* pavucontrol
+********* transmission-gtk
+********* lightdm(lightdm-gtk-greeter)
+********* accountsservice
+********* yay
+********* nitrogen
+********* brave
+********* qutebrowser, nyxt browser
+********* light
+********* pulseaudio
+********* touchpad-indicator
+********* SimpleScreenRecorder
+
+****** Emacs
+****** ghcup
+
+********* stack
+********* cabal
+********* ghci
