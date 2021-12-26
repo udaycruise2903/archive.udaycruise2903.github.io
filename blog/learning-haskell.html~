@@ -13,13 +13,13 @@
 <div id="content">
 <h1 class="title">Learning Haskell</h1>
 
-<div id="outline-container-orgad16b86" class="outline-2">
-<h2 id="orgad16b86">Books</h2>
-<div class="outline-text-2" id="text-orgad16b86">
+<div id="outline-container-orga318634" class="outline-2">
+<h2 id="orga318634">Books</h2>
+<div class="outline-text-2" id="text-orga318634">
 </div>
 <ul class="org-ul">
-<li><a id="org9eb0c74"></a>Learn you a Haskell for Great Good<br />
-<div class="outline-text-6" id="text-org9eb0c74">
+<li><a id="org1a4c397"></a>Learn you a Haskell for Great Good<br />
+<div class="outline-text-6" id="text-org1a4c397">
 <p>
 Consider reading this book along with exercises(from haskell mooc).
 </p>
@@ -28,49 +28,49 @@ Consider reading this book along with exercises(from haskell mooc).
 </ul>
 </div>
 
-<div id="outline-container-orgba3b3f6" class="outline-2">
-<h2 id="orgba3b3f6">Exercises</h2>
-<div class="outline-text-2" id="text-orgba3b3f6">
+<div id="outline-container-org05d22e5" class="outline-2">
+<h2 id="org05d22e5">Exercises</h2>
+<div class="outline-text-2" id="text-org05d22e5">
 </div>
 <ul class="org-ul">
-<li><a id="org6dfa86e"></a>learn4haskell<br /></li>
-<li><a id="org5ac1179"></a>haskell-mooc<br /></li>
+<li><a id="org3b64567"></a>learn4haskell<br /></li>
+<li><a id="org1507c1e"></a>haskell-mooc<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org27deb56" class="outline-2">
-<h2 id="org27deb56">Conferences</h2>
-<div class="outline-text-2" id="text-org27deb56">
+<div id="outline-container-orgaee4029" class="outline-2">
+<h2 id="orgaee4029">Conferences</h2>
+<div class="outline-text-2" id="text-orgaee4029">
 </div>
 <ul class="org-ul">
-<li><a id="org2b24cdc"></a>Functional Conference 2022<br /></li>
+<li><a id="orge0d19ec"></a>Functional Conference 2022<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org8586af3" class="outline-2">
-<h2 id="org8586af3">Mailing Lists</h2>
-<div class="outline-text-2" id="text-org8586af3">
+<div id="outline-container-orga622df7" class="outline-2">
+<h2 id="orga622df7">Mailing Lists</h2>
+<div class="outline-text-2" id="text-orga622df7">
 </div>
 <ul class="org-ul">
-<li><a id="orgbc850f2"></a><a href="https://haskellweekly.news/">haskellweekly</a><br /></li>
+<li><a id="org1fdcdf8"></a><a href="https://haskellweekly.news/">haskellweekly</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org668cdf5" class="outline-2">
-<h2 id="org668cdf5">Good Articles/Blogs</h2>
-<div class="outline-text-2" id="text-org668cdf5">
+<div id="outline-container-org7b6a7bc" class="outline-2">
+<h2 id="org7b6a7bc">Good Articles/Blogs</h2>
+<div class="outline-text-2" id="text-org7b6a7bc">
 </div>
 <ul class="org-ul">
-<li><a id="orgaa4bc77"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html"> Functor, Applicatives and Monads in pictures </a><br /></li>
+<li><a id="org6e0e38b"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html"> Functor, Applicatives and Monads in pictures </a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgec9eb5c" class="outline-2">
-<h2 id="orgec9eb5c">To read</h2>
+<div id="outline-container-org5e65ca2" class="outline-2">
+<h2 id="org5e65ca2">To read</h2>
 </div>
 
-<div id="outline-container-org2e90c7b" class="outline-2">
-<h2 id="org2e90c7b">Podcasts</h2>
+<div id="outline-container-org2238451" class="outline-2">
+<h2 id="org2238451">Podcasts</h2>
 </div>
 </div>
 <div id="postamble" class="status">

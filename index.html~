@@ -13,22 +13,23 @@
 <div id="content">
 <h1 class="title">Uday's Blog</h1>
 
-<div id="outline-container-org786c17d" class="outline-3">
-<h3 id="org786c17d">Welcome to my personal blog</h3>
-<div class="outline-text-3" id="text-org786c17d">
+<div id="outline-container-orgcf05818" class="outline-3">
+<h3 id="orgcf05818">Welcome to my personal blog</h3>
+<div class="outline-text-3" id="text-orgcf05818">
 <p>
 Hi, I am Uday Kiran(emacs and Haskell enthusiast)
 </p>
 </div>
 </div>
 
-<div id="outline-container-org349609f" class="outline-2">
-<h2 id="org349609f">Blog</h2>
-<div class="outline-text-2" id="text-org349609f">
+<div id="outline-container-org6aebf22" class="outline-2">
+<h2 id="org6aebf22">Blog</h2>
+<div class="outline-text-2" id="text-org6aebf22">
 </div>
-<div id="outline-container-orgb05011d" class="outline-4">
-<h4 id="orgb05011d"><a href="./blog/learning-haskell.html">Learning Haskell</a></h4>
-</div>
+<ul class="org-ul">
+<li><a id="orgc56eeb0"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org58daf4e"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+</ul>
 </div>
 </div>
 <div id="postamble" class="status">
