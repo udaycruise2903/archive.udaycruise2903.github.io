@@ -1,4 +1,4 @@
-#+title: Uday's Blog
+#+title: Monad Cakes
 
 ****** Welcome to my personal blog
      Hi, I am Uday Kiran(emacs and Haskell enthusiast)

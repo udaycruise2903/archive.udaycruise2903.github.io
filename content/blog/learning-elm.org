@@ -1,0 +1,24 @@
+#+title: Learning Elm
+
+** Books
+
+****** Learn you a Haskell for Great Good
+     Consider reading this book along with exercises(from haskell mooc).
+
+** Exercises
+
+****** learn4haskell
+****** haskell-mooc
+
+** Conferences
+
+****** Functional Conference 2022
+
+** Mailing Lists
+
+
+** Good Articles/Blogs
+
+** To read
+
+** Podcasts

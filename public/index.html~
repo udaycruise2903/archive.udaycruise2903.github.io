@@ -13,22 +13,22 @@
 <div id="content">
 <h1 class="title">Uday's Blog</h1>
 
-<div id="outline-container-orgb7602d5" class="outline-3">
-<h3 id="orgb7602d5">Welcome to my personal blog</h3>
-<div class="outline-text-3" id="text-orgb7602d5">
+<div id="outline-container-org3781b7f" class="outline-3">
+<h3 id="org3781b7f">Welcome to my personal blog</h3>
+<div class="outline-text-3" id="text-org3781b7f">
 <p>
 Hi, I am Uday Kiran(emacs and Haskell enthusiast)
 </p>
 </div>
 </div>
 
-<div id="outline-container-org705916f" class="outline-2">
-<h2 id="org705916f">Blog</h2>
-<div class="outline-text-2" id="text-org705916f">
+<div id="outline-container-org0614bdb" class="outline-2">
+<h2 id="org0614bdb">Blog</h2>
+<div class="outline-text-2" id="text-org0614bdb">
 </div>
 <ul class="org-ul">
-<li><a id="orgf44fef6"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org56fc27e"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="orgece4c3c"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="orge00885b"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 </div>

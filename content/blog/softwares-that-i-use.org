@@ -20,6 +20,9 @@
 ********* pulseaudio
 ********* touchpad-indicator
 ********* SimpleScreenRecorder
+********* Zathura
+********* Xfce4-screenshooter
+********* ffmpeg
 
 ****** Emacs
 ****** ghcup
