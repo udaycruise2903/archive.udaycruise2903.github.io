@@ -13,77 +13,77 @@
 <div id="content" class="content">
 <h1 class="title">Learning Haskell</h1>
 
-<div id="outline-container-org6e5abc9" class="outline-2">
-<h2 id="org6e5abc9">Books</h2>
-<div class="outline-text-2" id="text-org6e5abc9">
+<div id="outline-container-org2a646b3" class="outline-2">
+<h2 id="org2a646b3">Books</h2>
+<div class="outline-text-2" id="text-org2a646b3">
 </div>
 <ul class="org-ul">
-<li><a id="orga5b1cba"></a>Learn you a Haskell for Great Good<br />
-<div class="outline-text-6" id="text-orga5b1cba">
+<li><a id="orgc857cb7"></a>Learn you a Haskell for Great Good<br />
+<div class="outline-text-6" id="text-orgc857cb7">
 <p>
 Consider reading this book along with exercises(from haskell mooc).
 </p>
 </div>
 </li>
 
-<li><a id="orgec1e291"></a>Haskell Programming from First Principles<br /></li>
+<li><a id="orgdf202f4"></a>Haskell Programming from First Principles<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgdaf4423" class="outline-2">
-<h2 id="orgdaf4423">Exercises</h2>
-<div class="outline-text-2" id="text-orgdaf4423">
+<div id="outline-container-org0376caf" class="outline-2">
+<h2 id="org0376caf">Exercises</h2>
+<div class="outline-text-2" id="text-org0376caf">
 </div>
 <ul class="org-ul">
-<li><a id="org3513b61"></a>learn4haskell<br /></li>
-<li><a id="org408be93"></a>haskell-mooc<br /></li>
-<li><a id="orga39c4b5"></a>cis194(spring 2013)<br /></li>
+<li><a id="org6a85fc9"></a>learn4haskell<br /></li>
+<li><a id="orgd797455"></a>haskell-mooc<br /></li>
+<li><a id="orgd4b10d7"></a>cis194(spring 2013)<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org1aee0ae" class="outline-2">
-<h2 id="org1aee0ae">Conferences</h2>
-<div class="outline-text-2" id="text-org1aee0ae">
+<div id="outline-container-org00a030f" class="outline-2">
+<h2 id="org00a030f">Conferences</h2>
+<div class="outline-text-2" id="text-org00a030f">
 </div>
 <ul class="org-ul">
-<li><a id="orgd1928cc"></a>Functional Conference 2022<br /></li>
+<li><a id="org49d4121"></a>Functional Conference 2022<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org696d123" class="outline-2">
-<h2 id="org696d123">Mailing Lists</h2>
-<div class="outline-text-2" id="text-org696d123">
+<div id="outline-container-org43e7155" class="outline-2">
+<h2 id="org43e7155">Mailing Lists</h2>
+<div class="outline-text-2" id="text-org43e7155">
 </div>
 <ul class="org-ul">
-<li><a id="org812d914"></a><a href="https://haskellweekly.news/">haskellweekly</a><br /></li>
+<li><a id="orgc4f3c68"></a><a href="https://haskellweekly.news/">haskellweekly</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org31bc600" class="outline-2">
-<h2 id="org31bc600">Good Articles/Blogs</h2>
-<div class="outline-text-2" id="text-org31bc600">
+<div id="outline-container-orgaa89637" class="outline-2">
+<h2 id="orgaa89637">Good Articles/Blogs</h2>
+<div class="outline-text-2" id="text-orgaa89637">
 </div>
 <ul class="org-ul">
-<li><a id="orgdf81bde"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html"> Functor, Applicatives and Monads in pictures </a><br /></li>
+<li><a id="org6c56a82"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html"> Functor, Applicatives and Monads in pictures </a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org9ba11dd" class="outline-2">
-<h2 id="org9ba11dd">Meetups</h2>
-<div class="outline-text-2" id="text-org9ba11dd">
+<div id="outline-container-orge731461" class="outline-2">
+<h2 id="orge731461">Meetups</h2>
+<div class="outline-text-2" id="text-orge731461">
 </div>
 <ul class="org-ul">
-<li><a id="orgc4044cf"></a>Las Gatos FP group<br /></li>
-<li><a id="org6d95166"></a>Portland FP group<br /></li>
+<li><a id="orgabc229d"></a>Las Gatos FP group<br /></li>
+<li><a id="org21934de"></a>Portland FP group<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org31b1aa1" class="outline-2">
-<h2 id="org31b1aa1">Podcasts</h2>
-<div class="outline-text-2" id="text-org31b1aa1">
+<div id="outline-container-orga95612a" class="outline-2">
+<h2 id="orga95612a">Podcasts</h2>
+<div class="outline-text-2" id="text-orga95612a">
 </div>
 <ul class="org-ul">
-<li><a id="org7dcdacd"></a>Haskell Weekly by Taylor Fausak<br /></li>
+<li><a id="orga4acbfc"></a>Haskell Weekly by Taylor Fausak<br /></li>
 </ul>
 </div>
 </div>
