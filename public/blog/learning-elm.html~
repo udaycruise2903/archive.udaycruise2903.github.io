@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Learning Elm</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Learning Elm</h1>
+
+<div id="outline-container-orga95c379" class="outline-2">
+<h2 id="orga95c379">Books</h2>
+<div class="outline-text-2" id="text-orga95c379">
+</div>
+<ul class="org-ul">
+<li><a id="orgb2893fb"></a>Learn you a Haskell for Great Good<br />
+<div class="outline-text-6" id="text-orgb2893fb">
+<p>
+Consider reading this book along with exercises(from haskell mooc).
+</p>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-orgb05b26e" class="outline-2">
+<h2 id="orgb05b26e">Exercises</h2>
+<div class="outline-text-2" id="text-orgb05b26e">
+</div>
+<ul class="org-ul">
+<li><a id="org3ba2900"></a>learn4haskell<br /></li>
+<li><a id="org29d26e4"></a>haskell-mooc<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-orgab092aa" class="outline-2">
+<h2 id="orgab092aa">Conferences</h2>
+<div class="outline-text-2" id="text-orgab092aa">
+</div>
+<ul class="org-ul">
+<li><a id="org42b3f40"></a>Functional Conference 2022<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org7eb264b" class="outline-2">
+<h2 id="org7eb264b">Mailing Lists</h2>
+</div>
+
+
+<div id="outline-container-org5d1b4e4" class="outline-2">
+<h2 id="org5d1b4e4">Good Articles/Blogs</h2>
+</div>
+
+<div id="outline-container-orgd912555" class="outline-2">
+<h2 id="orgd912555">To read</h2>
+</div>
+
+<div id="outline-container-org08b5e5e" class="outline-2">
+<h2 id="org08b5e5e">Podcasts</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
+</div>
+</body>
+</html>

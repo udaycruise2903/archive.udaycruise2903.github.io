@@ -5,35 +5,42 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Uday's Blog</title>
-<meta name="generator" content="Org mode" />
+<title>Monad Cakes</title>
+<meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
-<div id="content">
-<h1 class="title">Uday's Blog</h1>
+<div id="content" class="content">
+<h1 class="title">Monad Cakes</h1>
 
-<div id="outline-container-org3781b7f" class="outline-3">
-<h3 id="org3781b7f">Welcome to my personal blog</h3>
-<div class="outline-text-3" id="text-org3781b7f">
+<ul class="org-ul">
+<li><a id="orgbb6db14"></a>Welcome to my personal website<br />
+<div class="outline-text-5" id="text-orgbb6db14">
+<hr />
 <p>
-Hi, I am Uday Kiran(emacs and Haskell enthusiast)
+<i>Hi, I am Uday Kiran(Linux, Emacs, Go, Haskell enthusiast)</i>
 </p>
-</div>
-</div>
 
-<div id="outline-container-org0614bdb" class="outline-2">
-<h2 id="org0614bdb">Blog</h2>
-<div class="outline-text-2" id="text-org0614bdb">
+<p>
+<a href="https://github.com/udaycruise2903">Github</a> |  <a href="https://twitter.com/neoatnebula">Twitter</a>
+</p>
+<hr />
+</div>
+</li>
+</ul>
+
+<div id="outline-container-org4552ba8" class="outline-2">
+<h2 id="org4552ba8">Blog</h2>
+<div class="outline-text-2" id="text-org4552ba8">
 </div>
 <ul class="org-ul">
-<li><a id="orgece4c3c"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="orge00885b"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="orgab27f28"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org5f8301a"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
 </div>
 </body>
 </html>

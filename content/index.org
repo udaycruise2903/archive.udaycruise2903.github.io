@@ -1,7 +1,12 @@
 #+title: Monad Cakes
 
-****** Welcome to my personal blog
-     Hi, I am Uday Kiran(emacs and Haskell enthusiast)
+******* Welcome to my personal website
+
+------------------------------------------
+     /Hi, I am Uday Kiran(Linux, Emacs, Go, Haskell enthusiast)/
+
+     [[https://github.com/udaycruise2903][Github]] |  [[https://twitter.com/neoatnebula][Twitter]]
+------------------------------------------
 
 ***** Blog
 
