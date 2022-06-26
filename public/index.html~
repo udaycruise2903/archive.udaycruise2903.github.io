@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Monad Cakes</h1>
 
-<ul class="org-ul">
-<li><a id="orgbb6db14"></a>Welcome to my personal website<br />
-<div class="outline-text-5" id="text-orgbb6db14">
+<div id="outline-container-orgaa016e5" class="outline-4">
+<h4 id="orgaa016e5">Welcome to my personal website</h4>
+<div class="outline-text-4" id="text-orgaa016e5">
 <hr />
 <p>
 <i>Hi, I am Uday Kiran(Linux, Emacs, Go, Haskell enthusiast)</i>
@@ -26,16 +26,24 @@
 </p>
 <hr />
 </div>
-</li>
-</ul>
+</div>
 
-<div id="outline-container-org4552ba8" class="outline-2">
-<h2 id="org4552ba8">Blog</h2>
-<div class="outline-text-2" id="text-org4552ba8">
+<div id="outline-container-orgee6cf58" class="outline-2">
+<h2 id="orgee6cf58">Blog</h2>
+<div class="outline-text-2" id="text-orgee6cf58">
 </div>
 <ul class="org-ul">
-<li><a id="orgab27f28"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org5f8301a"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="org61994c9"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org75ba4c1"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org410f7ef" class="outline-2">
+<h2 id="org410f7ef">Notes</h2>
+<div class="outline-text-2" id="text-org410f7ef">
+</div>
+<ul class="org-ul">
+<li><a id="orgc8c0fdf"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
 </ul>
 </div>
 </div>

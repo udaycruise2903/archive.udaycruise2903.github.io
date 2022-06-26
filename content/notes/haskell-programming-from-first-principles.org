@@ -1,0 +1,48 @@
+#+title: Haskell Programming From First Principles
+#+author: Uday Kiran
+#+date: <2022-06-26 Sun>
+#+OPTIONS: broken-links:t
+
+***** Preface
+
+1. Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel
+2. Spaced repetition and iterative deepening are effective strategies of learning.
+3. Solving exercises and returning to concepts can help develop intuition.
+4. Reason through the code samples and exercises in your head first, then type them out - either in REPL or in Source file.
+5. If you are stuck in a exercise for an extended period of time than come back later.
+6. All modern functional languages are based on lambda calculus.
+7. Solving the same problem in different ways increases your fluency and comfort with the way haskell works
+8. Writing yo6ur own thought processes can clarify your thoughts and make the solving of similar problems easier.
+
+***** Chapter 1
+
+1. In the Lambda expression - λx.x and λx.xa
+2. .x is called bound variable, a is called free variable.
+3. λx is called head and xa is called body.
+4. Beta-reduction - eliminating the head λx as its main purpose was to bind to a variable.
+5. Divergence - when x is substituted in λx.x then we get the same expression, thus it is in non-reducible form.
+
+***** Chapter 2
+
+1. Reducible expressions are called redexes. Ex: 1+1
+2. Currying -  applying a series of nested functions, each to an argument.
+3. Haskell evaluates to weak head normal form by default. ex: (f -> (1, 2+f)) 2
+   #+begin_src haskell
+    (1  , 2 + 2)
+   #+end_src
+   2+2 is not evaluated until the last possible moment.
+
+4. Module names are capitalised. camelCase is used for variable names
+5. 2 + 2 is a reducible expression. 4 is a value(irreducible constant).
+6. modulo 12 is used for a 12 hour clock. 12 is equivalent to both itself and 0.
+7. $ allows everything on the right of expression to be evaluated first.
+8. Ex: (+1) 2. (+1) is called sectioning and allows us to pass
+
+***** Chapter 3
+
+1. concat :: [[a]] -> [a]
+2. Prelude has functions with exceptions:
+   #+begin_src haskell :exports both :post org-babel-haskell-formatter(*this*)
+   head ""
+   "" !! 4
+   #+end_src

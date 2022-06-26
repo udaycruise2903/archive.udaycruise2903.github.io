@@ -12,3 +12,7 @@
 
 ********** [[./blog/learning-haskell.org][Learning Haskell]]
 ********** [[./blog/softwares-that-i-use.org][Softwares that i use]]
+
+***** Notes
+
+********** [[./notes/haskell-programming-from-first-principles.org][Haskell Programming from First Principles]]
