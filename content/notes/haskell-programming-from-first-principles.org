@@ -14,7 +14,7 @@
 7. Solving the same problem in different ways increases your fluency and comfort with the way haskell works
 8. Writing yo6ur own thought processes can clarify your thoughts and make the solving of similar problems easier.
 
-***** Chapter 1
+***** Chapter 1 - All you need is lambda
 
 1. In the Lambda expression - λx.x and λx.xa
 2. .x is called bound variable, a is called free variable.
@@ -22,7 +22,7 @@
 4. Beta-reduction - eliminating the head λx as its main purpose was to bind to a variable.
 5. Divergence - when x is substituted in λx.x then we get the same expression, thus it is in non-reducible form.
 
-***** Chapter 2
+***** Chapter 2 - Hello Haskell
 
 1. Reducible expressions are called redexes. Ex: 1+1
 2. Currying -  applying a series of nested functions, each to an argument.
@@ -38,7 +38,7 @@
 7. $ allows everything on the right of expression to be evaluated first.
 8. Ex: (+1) 2. (+1) is called sectioning and allows us to pass
 
-***** Chapter 3
+***** Chapter 3 - Strings
 
 1. concat :: [[a]] -> [a]
 2. Prelude has functions with exceptions:
@@ -46,3 +46,5 @@
    head ""
    "" !! 4
    #+end_src
+
+***** Chapter 4 - Basic Datatypes

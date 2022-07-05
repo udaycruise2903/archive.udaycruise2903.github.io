@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="author" content="Uday Kiran"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css" id="theme"/>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h2 class="author">Uday Kiran</h2>
+</section>
+
+
+
+
+<section>
+<section id="slide-orgc3f45b9">
+<h2 id="orgc3f45b9">Anonchat: Chatting application using Web3 and gun.js</h2>
+<div class="outline-text-2" id="text-orgc3f45b9">
+</div>
+</section>
+<section id="slide-org3c21820">
+<h4 id="org3c21820">Author: Charan Yadav P, Shashank A, Uday Kiran N</h4>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org5a11038">
+<h2 id="org5a11038">Current Scenario</h2>
+<ul>
+<li class="fragment appear">Lot of collection of metadata</li>
+<li class="fragment appear">User data and messages are stored in servers of a private company.</li>
+<li class="fragment appear">No control over personal data and No trust over data misuses.</li>
+<li class="fragment appear">Companies usually put profit over user safety.</li>
+<li class="fragment appear">Companies that provide free messaging platforms are not regulated by any governing body on their practices of handling user-data.</li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org2838be0">
+<h2 id="org2838be0">Why Decentralised messaging matters?</h2>
+<ul>
+<li class="fragment appear">To individuals-
+<ul>
+<li>It is resilient to data misusage and single point of failure.</li>
+<li>Data is not stored in servers of single entity.</li>
+<li>An Individual is responsible for their own privacy.</li>
+
+</ul></li>
+
+<li class="fragment appear">At a huge scale-
+<ul>
+<li>Protect Human Rights</li>
+<li>Upholding democracy and activism</li>
+<li>Protect Free speech</li>
+
+</ul></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org2f4cb80">
+<h2 id="org2f4cb80">How does our decentralised chatting work?</h2>
+</section>
+<section id="slide-org213815f">
+<h4 id="org213815f">Our Main Components</h4>
+<ul>
+<li>Tendermint(Blockchain) - LightClient(to request data over RPC and ), RPC Client(to make RPC requests to nodes)</li>
+<li>Tendermint Core(Consensus Engine)</li>
+<li>Application BlockChain Interface(ABCI)</li>
+
+</ul>
+
+</section>
+<section id="slide-org6127856">
+<h4 id="org6127856">Tendermint consists of</h4>
+<ul>
+<li>Consensus Engine - ensures that the same transactions are recorded on every machine in the same order.</li>
+<li>Application Interface(ABCI) - enables the transactions to be processed in any programming language</li>
+
+</ul>
+
+</section>
+<section id="slide-org0ab526b">
+<h4 id="org0ab526b">Tendermint Advantages</h4>
+<ul>
+<li>Easy to use</li>
+<li>Simple to understand</li>
+<li>Highly performant</li>
+<li>Can be used for a variety of distributed applications</li>
+
+</ul>
+
+
+
+</section>
+<section id="slide-orgb9bc820">
+<h4 id="orgb9bc820">Tendermint Network</h4>
+<ul>
+<li>We use Tendermint binary and optionally the tendermint/localnode docker image.</li>
+<li>the binary will be mounted into the container so it can be updated without rebuilding the image.</li>
+<li>testnet is ran in docker-containers.</li>
+<li>we can use our own ABCI application by configuring docker-compose.yaml file</li>
+<li>servers are created in online cloud platform.</li>
+<li>we need to manage testnets on those servers using Ansible/Kubernetes.</li>
+
+</ul>
+
+
+
+</section>
+<section id="slide-orgf568fba">
+<h4 id="orgf568fba">Creating a built-in application</h4>
+<ul>
+<li>Tendermint Core communicates with the application through the Application BlockChain Interface (ABCI). All message types are defined in the protobuf file. This allows Tendermint Core to run applications written in any programming language.</li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgf9c340a">
+<h2 id="orgf9c340a">Future Scenario</h2>
+<aside class="notes">
+nil
+</aside>
+</section>
+</section>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/notes/notes.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/search/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/zoom/zoom.js"></script>
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+mouseWheel: false,
+fragmentInURL: false,
+hashOneBasedIndex: false,
+pdfSeparateFragments: true,
+overview: true,
+margin: 10.00,
+
+transition: 'zoom',
+transitionSpeed: 'default',
+
+// Plugins with reveal.js 4.x
+plugins: [ RevealMarkdown, RevealNotes, RevealSearch, RevealZoom ],
+
+// Optional libraries used to extend reveal.js
+dependencies: [
+]
+
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content" class="content">
+
+
+
+
+<div id="outline-container-org4e95f0f" class="outline-2">
+<h2 id="org4e95f0f">Anonchat: Chatting application using Web3 and gun.js</h2>
+<div class="outline-text-2" id="text-org4e95f0f">
+</div>
+<div id="outline-container-org94b21f6" class="outline-4">
+<h4 id="org94b21f6">Author: Charan Yadav P, Shashank A, Uday Kiran N</h4>
+</div>
+</div>
+
+
+<div id="outline-container-orgab63ba5" class="outline-2">
+<h2 id="orgab63ba5">Current Scenario</h2>
+<div class="outline-text-2" id="text-orgab63ba5">
+<ul class="org-ul">
+<li>Lot of collection of metadata</li>
+<li>User data and messages are stored in servers of a private company.</li>
+<li>No control over personal data and No trust over data misuses.</li>
+<li>Companies usually put profit over user safety.</li>
+<li>Companies that provide free messaging platforms are not regulated by any governing body on their practices of handling user-data.</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgea4c275" class="outline-2">
+<h2 id="orgea4c275">Why Decentralised messaging matters?</h2>
+<div class="outline-text-2" id="text-orgea4c275">
+<ul class="org-ul">
+<li>To individuals-
+<ul class="org-ul">
+<li>It is resilient to data misusage and single point of failure.</li>
+<li>Data is not stored in servers of single entity.</li>
+<li>An Individual is responsible for their own privacy.</li>
+</ul></li>
+
+<li>At a huge scale-
+<ul class="org-ul">
+<li>Protect Human Rights</li>
+<li>Upholding democracy and activism</li>
+<li>Protect Free speech</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4dcde9f" class="outline-2">
+<h2 id="org4dcde9f">How does our decentralised chatting work?</h2>
+<div class="outline-text-2" id="text-org4dcde9f">
+</div>
+<div id="outline-container-org055bc01" class="outline-4">
+<h4 id="org055bc01">Our Main Components</h4>
+<div class="outline-text-4" id="text-org055bc01">
+<ul class="org-ul">
+<li>Tendermint(Blockchain) - LightClient(to request data over RPC and ), RPC Client(to make RPC requests to nodes)</li>
+<li>Tendermint Core(Consensus Engine)</li>
+<li>Application BlockChain Interface(ABCI)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org01d0943" class="outline-4">
+<h4 id="org01d0943">Tendermint consists of</h4>
+<div class="outline-text-4" id="text-org01d0943">
+<ul class="org-ul">
+<li>Consensus Engine - ensures that the same transactions are recorded on every machine in the same order.</li>
+<li>Application Interface(ABCI) - enables the transactions to be processed in any programming language</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5fd91da" class="outline-4">
+<h4 id="org5fd91da">Tendermint Advantages</h4>
+<div class="outline-text-4" id="text-org5fd91da">
+<ul class="org-ul">
+<li>Easy to use</li>
+<li>Simple to understand</li>
+<li>Highly performant</li>
+<li>Can be used for a variety of distributed applications</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga889868" class="outline-4">
+<h4 id="orga889868">Tendermint Network</h4>
+<div class="outline-text-4" id="text-orga889868">
+<ul class="org-ul">
+<li>We use Tendermint binary and optionally the tendermint/localnode docker image.</li>
+<li>the binary will be mounted into the container so it can be updated without rebuilding the image.</li>
+<li>testnet is ran in docker-containers.</li>
+<li>we can use our own ABCI application by configuring docker-compose.yaml file</li>
+<li>servers are created in online cloud platform.</li>
+<li>we need to manage testnets on those servers using Ansible/Kubernetes.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-orga473761" class="outline-4">
+<h4 id="orga473761">Creating a built-in application</h4>
+<div class="outline-text-4" id="text-orga473761">
+<ul class="org-ul">
+<li>Tendermint Core communicates with the application through the Application BlockChain Interface (ABCI). All message types are defined in the protobuf file. This allows Tendermint Core to run applications written in any programming language.</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgda06ed1" class="outline-2">
+<h2 id="orgda06ed1">Future Scenario</h2>
+<div class="outline-text-2" id="text-orgda06ed1">
+<div class="NOTES" id="org4083617">
+
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
+</div>
+</body>
+</html>

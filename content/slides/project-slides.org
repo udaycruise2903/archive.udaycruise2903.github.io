@@ -1,0 +1,84 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+#+OPTIONS: num:nil toc:nil timestamp:nil reveal_title_slide:nil
+#+REVEAL_TRANS: zoom
+#+REVEAL_THEME: black
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t"
+#+REVEAL_MARGIN: 10.0
+:END:
+
+
+
+
+* Anonchat: Chatting application using Web3 and gun.js
+*** Author: Charan Yadav P, Shashank A, Uday Kiran N 
+
+
+* Current Scenario
+
+#+ATTR_REVEAL: :frag (appear)
+- Lot of collection of metadata
+- User data and messages are stored in servers of a private company.
+- No control over personal data and No trust over data misuses.
+- Companies usually put profit over user safety.
+- Companies that provide free messaging platforms are not regulated by any governing body on their practices of handling user-data.
+
+
+* Why Decentralised messaging matters?
+
+#+ATTR_REVEAL: :frag (appear)
+- To individuals-
+    - It is resilient to data misusage and single point of failure.
+    - Data is not stored in servers of single entity.
+    - An Individual is responsible for their own privacy.
+
+- At a huge scale-
+    - Protect Human Rights
+    - Upholding democracy and activism
+    - Protect Free speech
+
+* How does our decentralised chatting work?
+
+#+ATTR_REVEAL: :frag (appear)
+*** Our Main Components
+
+- Tendermint(Blockchain) - LightClient(to request data over RPC and ), RPC Client(to make RPC requests to nodes)
+- Tendermint Core(Consensus Engine)
+- Application BlockChain Interface(ABCI)
+
+*** Tendermint consists of
+
+- Consensus Engine - ensures that the same transactions are recorded on every machine in the same order.
+- Application Interface(ABCI) - enables the transactions to be processed in any programming language
+
+*** Tendermint Advantages
+
+- Easy to use
+- Simple to understand
+- Highly performant
+- Can be used for a variety of distributed applications
+
+
+
+***  Tendermint Network
+
+
+- We use Tendermint binary and optionally the tendermint/localnode docker image.
+- the binary will be mounted into the container so it can be updated without rebuilding the image.
+- testnet is ran in docker-containers.
+- we can use our own ABCI application by configuring docker-compose.yaml file
+- servers are created in online cloud platform.
+- we need to manage testnets on those servers using Ansible/Kubernetes.
+
+
+
+*** Creating a built-in application
+
+- Tendermint Core communicates with the application through the Application BlockChain Interface (ABCI). All message types are defined in the protobuf file. This allows Tendermint Core to run applications written in any programming language.
+  
+
+* Future Scenario
+
+#+BEGIN_NOTES
+#+END_NOTES
