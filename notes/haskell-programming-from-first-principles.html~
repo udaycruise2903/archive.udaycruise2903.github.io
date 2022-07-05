@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-orgfea898e" class="outline-2">
-<h2 id="orgfea898e">Preface</h2>
-<div class="outline-text-2" id="text-orgfea898e">
+<div id="outline-container-org16404fc" class="outline-2">
+<h2 id="org16404fc">Preface</h2>
+<div class="outline-text-2" id="text-org16404fc">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org092669e" class="outline-2">
-<h2 id="org092669e">Chapter 1</h2>
-<div class="outline-text-2" id="text-org092669e">
+<div id="outline-container-org30081fc" class="outline-2">
+<h2 id="org30081fc">Chapter 1</h2>
+<div class="outline-text-2" id="text-org30081fc">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org29518b3" class="outline-2">
-<h2 id="org29518b3">Chapter 2</h2>
-<div class="outline-text-2" id="text-org29518b3">
+<div id="outline-container-org2e5e213" class="outline-2">
+<h2 id="org2e5e213">Chapter 2</h2>
+<div class="outline-text-2" id="text-org2e5e213">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org66efc29" class="outline-2">
-<h2 id="org66efc29">Chapter 3</h2>
-<div class="outline-text-2" id="text-org66efc29">
+<div id="outline-container-org9acdb6b" class="outline-2">
+<h2 id="org9acdb6b">Chapter 3</h2>
+<div class="outline-text-2" id="text-org9acdb6b">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>

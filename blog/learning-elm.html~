@@ -13,13 +13,13 @@
 <div id="content" class="content">
 <h1 class="title">Learning Elm</h1>
 
-<div id="outline-container-orge70f57a" class="outline-2">
-<h2 id="orge70f57a">Books</h2>
-<div class="outline-text-2" id="text-orge70f57a">
+<div id="outline-container-org8bde65f" class="outline-2">
+<h2 id="org8bde65f">Books</h2>
+<div class="outline-text-2" id="text-org8bde65f">
 </div>
 <ul class="org-ul">
-<li><a id="org7557aa4"></a>Learn you a Haskell for Great Good<br />
-<div class="outline-text-6" id="text-org7557aa4">
+<li><a id="orgb2b15e4"></a>Learn you a Haskell for Great Good<br />
+<div class="outline-text-6" id="text-orgb2b15e4">
 <p>
 Consider reading this book along with exercises(from haskell mooc).
 </p>
@@ -28,40 +28,40 @@ Consider reading this book along with exercises(from haskell mooc).
 </ul>
 </div>
 
-<div id="outline-container-orgb2cfa1a" class="outline-2">
-<h2 id="orgb2cfa1a">Exercises</h2>
-<div class="outline-text-2" id="text-orgb2cfa1a">
+<div id="outline-container-orga71600f" class="outline-2">
+<h2 id="orga71600f">Exercises</h2>
+<div class="outline-text-2" id="text-orga71600f">
 </div>
 <ul class="org-ul">
-<li><a id="orgc36a2da"></a>learn4haskell<br /></li>
-<li><a id="orgdb339c5"></a>haskell-mooc<br /></li>
+<li><a id="orge70a34a"></a>learn4haskell<br /></li>
+<li><a id="org972952d"></a>haskell-mooc<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org7d0f063" class="outline-2">
-<h2 id="org7d0f063">Conferences</h2>
-<div class="outline-text-2" id="text-org7d0f063">
+<div id="outline-container-org441fa67" class="outline-2">
+<h2 id="org441fa67">Conferences</h2>
+<div class="outline-text-2" id="text-org441fa67">
 </div>
 <ul class="org-ul">
-<li><a id="orgc109a78"></a>Functional Conference 2022<br /></li>
+<li><a id="org531b252"></a>Functional Conference 2022<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgd60dada" class="outline-2">
-<h2 id="orgd60dada">Mailing Lists</h2>
+<div id="outline-container-orge5812de" class="outline-2">
+<h2 id="orge5812de">Mailing Lists</h2>
 </div>
 
 
-<div id="outline-container-org812a17b" class="outline-2">
-<h2 id="org812a17b">Good Articles/Blogs</h2>
+<div id="outline-container-orge6363f5" class="outline-2">
+<h2 id="orge6363f5">Good Articles/Blogs</h2>
 </div>
 
-<div id="outline-container-org85029b5" class="outline-2">
-<h2 id="org85029b5">To read</h2>
+<div id="outline-container-org156e246" class="outline-2">
+<h2 id="org156e246">To read</h2>
 </div>
 
-<div id="outline-container-org54c4b56" class="outline-2">
-<h2 id="org54c4b56">Podcasts</h2>
+<div id="outline-container-org82f4559" class="outline-2">
+<h2 id="org82f4559">Podcasts</h2>
 </div>
 </div>
 <div id="postamble" class="status">
