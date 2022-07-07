@@ -48,3 +48,15 @@
    #+end_src
 
 ***** Chapter 4 - Basic Datatypes
+
+***** Chapter 11 - Algebraic Datatypes
+
+1. Type constructors are used only in Type Signatures, Data constructors are used at term level.
+2. Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
+   ex: data PugType = pugData
+3. :kind - to check the kind of a type.
+4. Bool and [Int] are fully applied, concrete types, so their kind signatures have no function arrows.
+5. an empty list has to be applied to a concrete type before it is itself a concrete type.
+   :k []
+   * -> *
+6.
