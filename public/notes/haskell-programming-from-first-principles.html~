@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-org862c421" class="outline-2">
-<h2 id="org862c421">Preface</h2>
-<div class="outline-text-2" id="text-org862c421">
+<div id="outline-container-org11dfaa9" class="outline-2">
+<h2 id="org11dfaa9">Preface</h2>
+<div class="outline-text-2" id="text-org11dfaa9">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org732b1d5" class="outline-2">
-<h2 id="org732b1d5">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-org732b1d5">
+<div id="outline-container-org1138ea5" class="outline-2">
+<h2 id="org1138ea5">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-org1138ea5">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-orga548254" class="outline-2">
-<h2 id="orga548254">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-orga548254">
+<div id="outline-container-orgd2a09be" class="outline-2">
+<h2 id="orgd2a09be">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orgd2a09be">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org285dad6" class="outline-2">
-<h2 id="org285dad6">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-org285dad6">
+<div id="outline-container-orgca5e466" class="outline-2">
+<h2 id="orgca5e466">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-orgca5e466">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,13 +85,13 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-org800c1d7" class="outline-2">
-<h2 id="org800c1d7">Chapter 4 - Basic Datatypes</h2>
+<div id="outline-container-org8cba8fc" class="outline-2">
+<h2 id="org8cba8fc">Chapter 4 - Basic Datatypes</h2>
 </div>
 
-<div id="outline-container-org49162e3" class="outline-2">
-<h2 id="org49162e3">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-org49162e3">
+<div id="outline-container-orgc67eafa" class="outline-2">
+<h2 id="orgc67eafa">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-orgc67eafa">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.

@@ -13,84 +13,84 @@
 <div id="content" class="content">
 <h1 class="title">Learning Haskell</h1>
 
-<div id="outline-container-org260f863" class="outline-2">
-<h2 id="org260f863">Books</h2>
-<div class="outline-text-2" id="text-org260f863">
+<div id="outline-container-org8dbe892" class="outline-2">
+<h2 id="org8dbe892">Books</h2>
+<div class="outline-text-2" id="text-org8dbe892">
 </div>
 <ul class="org-ul">
-<li><a id="orgf2b8339"></a><span class="done DONE">DONE</span> Learn you a Haskell for Great Good - Read this book along with solving exercises from first few chapters from haskell mooc(till chapter4a).<br /></li>
+<li><a id="orgaa12286"></a><span class="done DONE">DONE</span> Learn you a Haskell for Great Good - Read this book along with solving exercises from first few chapters from haskell mooc(till chapter4a).<br /></li>
 
-<li><a id="org06c1c0f"></a>Haskell Programming from First Principles(HPFFP) - This book is too verbose and just eats my energy before heading to exercises. So I will solving only exercises of first ten chapters.<br /></li>
+<li><a id="orgedc36be"></a>Haskell Programming from First Principles(HPFFP) - This book is too verbose and just eats my energy before heading to exercises. So I will solving only exercises of first ten chapters.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orge25102e" class="outline-2">
-<h2 id="orge25102e">Exercises</h2>
-<div class="outline-text-2" id="text-orge25102e">
+<div id="outline-container-org0dd4dcb" class="outline-2">
+<h2 id="org0dd4dcb">Exercises</h2>
+<div class="outline-text-2" id="text-org0dd4dcb">
 </div>
 <ul class="org-ul">
-<li><a id="orgb818631"></a>Started with Learn you a Haskell book, simultaneously solve <b>learn4haskell exercises</b> from github.<br /></li>
-<li><a id="orgb9685cf"></a>haskell-mooc - solved a few chapters from this repo.<br /></li>
-<li><a id="org14582a4"></a>cis194(spring 2013) - Solved the first exercise only, the rest seems to be out of my understanding.<br /></li>
+<li><a id="org4883298"></a>Started with Learn you a Haskell book, simultaneously solve <b>learn4haskell exercises</b> from github.<br /></li>
+<li><a id="orge40f643"></a>haskell-mooc - solved a few chapters from this repo.<br /></li>
+<li><a id="orgca6600a"></a>cis194(spring 2013) - Solved the first exercise only, the rest seems to be out of my understanding.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgc2d7dde" class="outline-2">
-<h2 id="orgc2d7dde">Projects</h2>
-<div class="outline-text-2" id="text-orgc2d7dde">
+<div id="outline-container-orgad89e0e" class="outline-2">
+<h2 id="orgad89e0e">Projects</h2>
+<div class="outline-text-2" id="text-orgad89e0e">
 </div>
 <ul class="org-ul">
-<li><a id="orgd974658"></a><a href="https://github.com/fpindia/fpindia-site">FPIndia Static Site</a> - Contributed to the static site which was utilising the unreleased development on multisite branch - <a href="https://github.com/EmaApps/ema/pull/81">multisite rewrite</a>.<br /></li>
-<li><a id="orgac73167"></a>IDEA <a href="https://github.com/udaycruise2903/ideas/issues/1">CLI app for displaying the haskell meetups around the world</a><br /></li>
+<li><a id="orge5b5779"></a><a href="https://github.com/fpindia/fpindia-site">FPIndia Static Site</a> - Contributed to the static site which was utilising the unreleased development on multisite branch - <a href="https://github.com/EmaApps/ema/pull/81">multisite rewrite</a>.<br /></li>
+<li><a id="orgfa8c92a"></a>IDEA <a href="https://github.com/udaycruise2903/ideas/issues/1">CLI app for displaying the haskell meetups around the world</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org00cdf0c" class="outline-2">
-<h2 id="org00cdf0c">Conferences</h2>
-<div class="outline-text-2" id="text-org00cdf0c">
+<div id="outline-container-orgdcd3acb" class="outline-2">
+<h2 id="orgdcd3acb">Conferences</h2>
+<div class="outline-text-2" id="text-orgdcd3acb">
 </div>
 <ul class="org-ul">
-<li><a id="orgccd1299"></a>Functional Conference 2022(March 2022) - I neither did attend this conference, nor watched the videos till now.<br /></li>
+<li><a id="org569f48e"></a>Functional Conference 2022(March 2022) - I neither did attend this conference, nor watched the videos till now.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgeeadf03" class="outline-2">
-<h2 id="orgeeadf03">Mailing Lists</h2>
-<div class="outline-text-2" id="text-orgeeadf03">
+<div id="outline-container-org59e9bfb" class="outline-2">
+<h2 id="org59e9bfb">Mailing Lists</h2>
+<div class="outline-text-2" id="text-org59e9bfb">
 </div>
 <ul class="org-ul">
-<li><a id="orgb3ea123"></a><a href="https://haskellweekly.news/">haskellweekly</a> - I have been reading this every week, but not trying out things in blogs from last  6 months.<br /></li>
+<li><a id="orgc3598ff"></a><a href="https://haskellweekly.news/">haskellweekly</a> - I have been reading this every week, but not trying out things in blogs from last  6 months.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org37eb64a" class="outline-2">
-<h2 id="org37eb64a">Good Articles/Blogs</h2>
-<div class="outline-text-2" id="text-org37eb64a">
+<div id="outline-container-orge448808" class="outline-2">
+<h2 id="orge448808">Good Articles/Blogs</h2>
+<div class="outline-text-2" id="text-orge448808">
 </div>
 <ul class="org-ul">
-<li><a id="org85d4f16"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html">Functor, Applicatives and Monads in pictures</a><br /></li>
-<li><a id="org5ba5ab4"></a><span class="todo TODO">TODO</span> <a href="https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell">School of haskell</a><br /></li>
-<li><a id="orgd5890b8"></a><span class="todo TODO">TODO</span> <a href="https://serokell.io/blog/lexing-with-alex">Parsing with haskell</a><br /></li>
+<li><a id="orgbc7e548"></a><a href="https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html">Functor, Applicatives and Monads in pictures</a><br /></li>
+<li><a id="org9d4cd21"></a><span class="todo TODO">TODO</span> <a href="https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell">School of haskell</a><br /></li>
+<li><a id="org0bb99e2"></a><span class="todo TODO">TODO</span> <a href="https://serokell.io/blog/lexing-with-alex">Parsing with haskell</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org647d701" class="outline-2">
-<h2 id="org647d701">Meetups</h2>
-<div class="outline-text-2" id="text-org647d701">
+<div id="outline-container-orge0fe22c" class="outline-2">
+<h2 id="orge0fe22c">Meetups</h2>
+<div class="outline-text-2" id="text-orge0fe22c">
 </div>
 <ul class="org-ul">
-<li><a id="orgf24d457"></a>Las Gatos FP group - attended their <b>Haskell in Depth</b> Book discussion session.<br /></li>
-<li><a id="org8c0a21c"></a>Portland FP group - Haven't attended a single session till now.<br /></li>
-<li><a id="org0320382"></a>Berlin FP group - This group conducts a online session every month called <b>Bring Your Project, Get help with your code &amp; socialise</b>.<br /></li>
+<li><a id="org60354c8"></a>Las Gatos FP group - attended their <b>Haskell in Depth</b> Book discussion session.<br /></li>
+<li><a id="org5ace23f"></a>Portland FP group - Haven't attended a single session till now.<br /></li>
+<li><a id="org81fa100"></a>Berlin FP group - This group conducts a online session every month called <b>Bring Your Project, Get help with your code &amp; socialise</b>.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org915eed4" class="outline-2">
-<h2 id="org915eed4">Podcasts</h2>
-<div class="outline-text-2" id="text-org915eed4">
+<div id="outline-container-org6e5854c" class="outline-2">
+<h2 id="org6e5854c">Podcasts</h2>
+<div class="outline-text-2" id="text-org6e5854c">
 </div>
 <ul class="org-ul">
-<li><a id="orge88ca5e"></a>Haskell Weekly by Taylor Fausak - Listened to a few podcasts. I need to listen to this frequently.<br /></li>
+<li><a id="orgf49905d"></a>Haskell Weekly by Taylor Fausak - Listened to a few podcasts. I need to listen to this frequently.<br /></li>
 </ul>
 </div>
 </div>
