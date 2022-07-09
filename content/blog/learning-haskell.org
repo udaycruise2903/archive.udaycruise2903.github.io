@@ -2,34 +2,38 @@
 
 ** Books
 
-****** Learn you a Haskell for Great Good
-     Consider reading this book along with exercises(from haskell mooc).
+***** Learn you a Haskell for Great Good - Read this book along with solving exercises from first few chapters from haskell mooc(till chapter4a).
 
-****** Haskell Programming from First Principles
+********* Haskell Programming from First Principles(HPFFP) - This book is too verbose and just eats my energy before heading to exercises. So I will solving only exercises of first ten chapters.
 
 ** Exercises
 
-****** learn4haskell
-****** haskell-mooc
-****** cis194(spring 2013)
+***** Started with Learn you a Haskell book, simultaneously solve *learn4haskell exercises* from github.
+***** haskell-mooc - solved a few chapters from this repo.
+***** cis194(spring 2013) - Solved the first exercise only, the rest seems to be out of my understanding.
+
+** Projects
+
+***** [[https://github.com/fpindia/fpindia-site][FPIndia Static Site]] - Contributed to the static site which was utilising the unreleased development on multisite branch - [[https://github.com/EmaApps/ema/pull/81][multisite rewrite]].
 
 ** Conferences
 
-****** Functional Conference 2022
+***** Functional Conference 2022(March 2022) - I neither did attend this conference, nor watched the videos till now.
 
 ** Mailing Lists
 
-****** [[https://haskellweekly.news/][haskellweekly]]
+***** [[https://haskellweekly.news/][haskellweekly]] - I have been reading this every week, but not trying out things in blogs from last  6 months.
 
 ** Good Articles/Blogs
 
-****** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][ Functor, Applicatives and Monads in pictures ]]
+***** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][ Functor, Applicatives and Monads in pictures ]]
 
 ** Meetups
 
-****** Las Gatos FP group
-****** Portland FP group
+***** Las Gatos FP group - attended their *Haskell in Depth* Book discussion session.
+***** Portland FP group - Haven't attended a single session till now.
+***** Berlin FP group - This group conducts a online session every month called *Bring Your Project, Get help with your code & socialise*.
 
 ** Podcasts
 
-****** Haskell Weekly by Taylor Fausak
+***** Haskell Weekly by Taylor Fausak - Listened to a few podcasts. I need to listen to this frequently.

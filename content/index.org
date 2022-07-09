@@ -11,6 +11,7 @@
 ***** Blog
 
 ********** [[./blog/learning-haskell.org][Learning Haskell]]
+********** [[./blog/learning-agda.org][Learning Agda]]
 ********** [[./blog/softwares-that-i-use.org][Softwares that i use]]
 
 ***** Notes
