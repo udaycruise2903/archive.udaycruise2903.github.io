@@ -13,46 +13,46 @@
 <div id="content" class="content">
 <h1 class="title">Softwares that i use</h1>
 
-<div id="outline-container-org7c56ce4" class="outline-2">
-<h2 id="org7c56ce4">Archlinux</h2>
-<div class="outline-text-2" id="text-org7c56ce4">
+<div id="outline-container-orga292011" class="outline-2">
+<h2 id="orga292011">Archlinux</h2>
+<div class="outline-text-2" id="text-orga292011">
 </div>
 <ul class="org-ul">
-<li><a id="orgf5fde2f"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
-<li><a id="org5296541"></a>b43-firmware(driver)<br /></li>
-<li><a id="org4c02997"></a>NetworkManager<br /></li>
-<li><a id="org25b1e13"></a>mpv<br /></li>
-<li><a id="org2d38e68"></a>udiskie<br /></li>
-<li><a id="org3574f8b"></a>ntfs-3g(driver)<br /></li>
-<li><a id="orgddac144"></a>pavucontrol<br /></li>
-<li><a id="org1152900"></a>transmission-gtk<br /></li>
-<li><a id="org0707c52"></a>lightdm(lightdm-gtk-greeter)<br /></li>
-<li><a id="orgc9542ef"></a>accountsservice<br /></li>
-<li><a id="orgca53c30"></a>yay<br /></li>
-<li><a id="orgd1e703d"></a>nitrogen<br /></li>
-<li><a id="orgb3e39ed"></a>brave<br /></li>
-<li><a id="orgdabbfa4"></a>qutebrowser, nyxt browser<br /></li>
-<li><a id="org41d2c98"></a>light<br /></li>
-<li><a id="org1b55853"></a>pulseaudio<br /></li>
-<li><a id="org5579607"></a>touchpad-indicator<br /></li>
-<li><a id="org578f66c"></a>SimpleScreenRecorder<br /></li>
-<li><a id="org5fd4f91"></a>Zathura<br /></li>
-<li><a id="org9a64f37"></a>Xfce4-screenshooter<br /></li>
-<li><a id="org0096a97"></a>ffmpeg<br /></li>
+<li><a id="orgcfabc03"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
+<li><a id="org4958e2d"></a>b43-firmware(driver)<br /></li>
+<li><a id="org325d8b5"></a>NetworkManager<br /></li>
+<li><a id="org7211c44"></a>mpv<br /></li>
+<li><a id="org9f766aa"></a>udiskie<br /></li>
+<li><a id="orgcf93bae"></a>ntfs-3g(driver)<br /></li>
+<li><a id="org5a2063e"></a>pavucontrol<br /></li>
+<li><a id="org6955848"></a>transmission-gtk<br /></li>
+<li><a id="org3ea9221"></a>lightdm(lightdm-gtk-greeter)<br /></li>
+<li><a id="org9d1b0c0"></a>accountsservice<br /></li>
+<li><a id="orgdae158c"></a>yay<br /></li>
+<li><a id="orgd0b3739"></a>nitrogen<br /></li>
+<li><a id="org3b06c66"></a>brave<br /></li>
+<li><a id="org132cf20"></a>qutebrowser, nyxt browser<br /></li>
+<li><a id="orga6eae3c"></a>light<br /></li>
+<li><a id="org878a3d1"></a>pulseaudio<br /></li>
+<li><a id="org8438d6f"></a>touchpad-indicator<br /></li>
+<li><a id="orgc8fa5a1"></a>SimpleScreenRecorder<br /></li>
+<li><a id="org0d4abf7"></a>Zathura<br /></li>
+<li><a id="orgf618019"></a>Xfce4-screenshooter<br /></li>
+<li><a id="org32c7720"></a>ffmpeg<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org817f953" class="outline-2">
-<h2 id="org817f953">Emacs</h2>
+<div id="outline-container-org0ad9f3c" class="outline-2">
+<h2 id="org0ad9f3c">Emacs</h2>
 </div>
-<div id="outline-container-org9210b2e" class="outline-2">
-<h2 id="org9210b2e">ghcup</h2>
-<div class="outline-text-2" id="text-org9210b2e">
+<div id="outline-container-orgc33f36b" class="outline-2">
+<h2 id="orgc33f36b">ghcup</h2>
+<div class="outline-text-2" id="text-orgc33f36b">
 </div>
 <ul class="org-ul">
-<li><a id="org01b6d43"></a>stack<br /></li>
-<li><a id="org5366fb6"></a>cabal<br /></li>
-<li><a id="orge120834"></a>ghci<br /></li>
+<li><a id="org8edb49b"></a>stack<br /></li>
+<li><a id="orgaae9c4f"></a>cabal<br /></li>
+<li><a id="orgbdad746"></a>ghci<br /></li>
 </ul>
 </div>
 </div>

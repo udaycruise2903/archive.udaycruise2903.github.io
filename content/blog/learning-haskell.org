@@ -2,9 +2,9 @@
 
 ** Books
 
-***** Learn you a Haskell for Great Good - Read this book along with solving exercises from first few chapters from haskell mooc(till chapter4a).
+***** DONE Learn you a Haskell for Great Good - Read this book along with solving exercises from first few chapters from haskell mooc(till chapter4a).
 
-********* Haskell Programming from First Principles(HPFFP) - This book is too verbose and just eats my energy before heading to exercises. So I will solving only exercises of first ten chapters.
+***** Haskell Programming from First Principles(HPFFP) - This book is too verbose and just eats my energy before heading to exercises. So I will solving only exercises of first ten chapters.
 
 ** Exercises
 
@@ -15,6 +15,7 @@
 ** Projects
 
 ***** [[https://github.com/fpindia/fpindia-site][FPIndia Static Site]] - Contributed to the static site which was utilising the unreleased development on multisite branch - [[https://github.com/EmaApps/ema/pull/81][multisite rewrite]].
+***** IDEA [[https://github.com/udaycruise2903/ideas/issues/1][CLI app for displaying the haskell meetups around the world]]
 
 ** Conferences
 
@@ -26,8 +27,7 @@
 
 ** Good Articles/Blogs
 
-***** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functor, Applicatives and Monads in pictures
-]]
+***** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functor, Applicatives and Monads in pictures]]
 ***** TODO [[https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell][School of haskell]]
 ***** TODO [[https://serokell.io/blog/lexing-with-alex][Parsing with haskell]]
 
