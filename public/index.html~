@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Monad Cakes</h1>
 
-<div id="outline-container-orgee5a63e" class="outline-4">
-<h4 id="orgee5a63e">Welcome to my personal website</h4>
-<div class="outline-text-4" id="text-orgee5a63e">
+<div id="outline-container-orgea6ff33" class="outline-4">
+<h4 id="orgea6ff33">Welcome to my personal website</h4>
+<div class="outline-text-4" id="text-orgea6ff33">
 <hr />
 <p>
 <i>Hi, I am Uday Kiran(Linux, Emacs, Haskell enthusiast)</i>
@@ -28,32 +28,32 @@
 </div>
 </div>
 
-<div id="outline-container-org282f09b" class="outline-2">
-<h2 id="org282f09b">Blog</h2>
-<div class="outline-text-2" id="text-org282f09b">
+<div id="outline-container-org21c2d71" class="outline-2">
+<h2 id="org21c2d71">Blog</h2>
+<div class="outline-text-2" id="text-org21c2d71">
 </div>
 <ul class="org-ul">
-<li><a id="orgbd995fc"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="orgd196a0f"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
-<li><a id="orgfcabc16"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="orgcecfa20"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org2543ecb"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
+<li><a id="org383f236"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgaafd11a" class="outline-2">
-<h2 id="orgaafd11a">Notes</h2>
-<div class="outline-text-2" id="text-orgaafd11a">
+<div id="outline-container-orgc24620f" class="outline-2">
+<h2 id="orgc24620f">Notes</h2>
+<div class="outline-text-2" id="text-orgc24620f">
 </div>
 <ul class="org-ul">
-<li><a id="org64c56a0"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="org03e8d9a"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org7dbfca3" class="outline-2">
-<h2 id="org7dbfca3">Slides</h2>
-<div class="outline-text-2" id="text-org7dbfca3">
+<div id="outline-container-orgb8a0de6" class="outline-2">
+<h2 id="orgb8a0de6">Slides</h2>
+<div class="outline-text-2" id="text-orgb8a0de6">
 </div>
 <ul class="org-ul">
-<li><a id="org1a45238"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
+<li><a id="orgda61e10"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
 </ul>
 </div>
 </div>

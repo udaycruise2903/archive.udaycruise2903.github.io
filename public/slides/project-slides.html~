@@ -15,19 +15,19 @@
 
 
 
-<div id="outline-container-org9faccbd" class="outline-2">
-<h2 id="org9faccbd">Anonchat: Chatting application using Web3 and gun.js</h2>
-<div class="outline-text-2" id="text-org9faccbd">
+<div id="outline-container-org70ca381" class="outline-2">
+<h2 id="org70ca381">Anonchat: Chatting application using Web3 and gun.js</h2>
+<div class="outline-text-2" id="text-org70ca381">
 </div>
-<div id="outline-container-org3b5a07d" class="outline-4">
-<h4 id="org3b5a07d">Author: Charan Yadav P, Shashank A, Uday Kiran N</h4>
+<div id="outline-container-orgd48018d" class="outline-4">
+<h4 id="orgd48018d">Author: Charan Yadav P, Shashank A, Uday Kiran N</h4>
 </div>
 </div>
 
 
-<div id="outline-container-orge564d5b" class="outline-2">
-<h2 id="orge564d5b">Current Scenario</h2>
-<div class="outline-text-2" id="text-orge564d5b">
+<div id="outline-container-org9142be1" class="outline-2">
+<h2 id="org9142be1">Current Scenario</h2>
+<div class="outline-text-2" id="text-org9142be1">
 <ul class="org-ul">
 <li>Lot of collection of metadata</li>
 <li>User data and messages are stored in servers of a private company.</li>
@@ -39,9 +39,9 @@
 </div>
 
 
-<div id="outline-container-orga6e0186" class="outline-2">
-<h2 id="orga6e0186">Why Decentralised messaging matters?</h2>
-<div class="outline-text-2" id="text-orga6e0186">
+<div id="outline-container-org9808dca" class="outline-2">
+<h2 id="org9808dca">Why Decentralised messaging matters?</h2>
+<div class="outline-text-2" id="text-org9808dca">
 <ul class="org-ul">
 <li>To individuals-
 <ul class="org-ul">
@@ -60,13 +60,13 @@
 </div>
 </div>
 
-<div id="outline-container-orga685e33" class="outline-2">
-<h2 id="orga685e33">How does our decentralised chatting work?</h2>
-<div class="outline-text-2" id="text-orga685e33">
+<div id="outline-container-org293fd1e" class="outline-2">
+<h2 id="org293fd1e">How does our decentralised chatting work?</h2>
+<div class="outline-text-2" id="text-org293fd1e">
 </div>
-<div id="outline-container-org1f30859" class="outline-4">
-<h4 id="org1f30859">Our Main Components</h4>
-<div class="outline-text-4" id="text-org1f30859">
+<div id="outline-container-org66337aa" class="outline-4">
+<h4 id="org66337aa">Our Main Components</h4>
+<div class="outline-text-4" id="text-org66337aa">
 <ul class="org-ul">
 <li>Tendermint(Blockchain) - LightClient(to request data over RPC and ), RPC Client(to make RPC requests to nodes)</li>
 <li>Tendermint Core(Consensus Engine)</li>
@@ -75,9 +75,9 @@
 </div>
 </div>
 
-<div id="outline-container-org6f89afc" class="outline-4">
-<h4 id="org6f89afc">Tendermint consists of</h4>
-<div class="outline-text-4" id="text-org6f89afc">
+<div id="outline-container-org955db71" class="outline-4">
+<h4 id="org955db71">Tendermint consists of</h4>
+<div class="outline-text-4" id="text-org955db71">
 <ul class="org-ul">
 <li>Consensus Engine - ensures that the same transactions are recorded on every machine in the same order.</li>
 <li>Application Interface(ABCI) - enables the transactions to be processed in any programming language</li>
@@ -85,9 +85,9 @@
 </div>
 </div>
 
-<div id="outline-container-orga1f6b06" class="outline-4">
-<h4 id="orga1f6b06">Tendermint Advantages</h4>
-<div class="outline-text-4" id="text-orga1f6b06">
+<div id="outline-container-org55d45ec" class="outline-4">
+<h4 id="org55d45ec">Tendermint Advantages</h4>
+<div class="outline-text-4" id="text-org55d45ec">
 <ul class="org-ul">
 <li>Easy to use</li>
 <li>Simple to understand</li>
@@ -99,9 +99,9 @@
 
 
 
-<div id="outline-container-orgc19b08f" class="outline-4">
-<h4 id="orgc19b08f">Tendermint Network</h4>
-<div class="outline-text-4" id="text-orgc19b08f">
+<div id="outline-container-orgdccac87" class="outline-4">
+<h4 id="orgdccac87">Tendermint Network</h4>
+<div class="outline-text-4" id="text-orgdccac87">
 <ul class="org-ul">
 <li>We use Tendermint binary and optionally the tendermint/localnode docker image.</li>
 <li>the binary will be mounted into the container so it can be updated without rebuilding the image.</li>
@@ -115,9 +115,9 @@
 
 
 
-<div id="outline-container-orga955dca" class="outline-4">
-<h4 id="orga955dca">Creating a built-in application</h4>
-<div class="outline-text-4" id="text-orga955dca">
+<div id="outline-container-orgcba5692" class="outline-4">
+<h4 id="orgcba5692">Creating a built-in application</h4>
+<div class="outline-text-4" id="text-orgcba5692">
 <ul class="org-ul">
 <li>Tendermint Core communicates with the application through the Application BlockChain Interface (ABCI). All message types are defined in the protobuf file. This allows Tendermint Core to run applications written in any programming language.</li>
 </ul>
@@ -126,10 +126,10 @@
 </div>
 
 
-<div id="outline-container-org3bbe79e" class="outline-2">
-<h2 id="org3bbe79e">Future Scenario</h2>
-<div class="outline-text-2" id="text-org3bbe79e">
-<div class="NOTES" id="org18bc1ba">
+<div id="outline-container-orgbaf9e36" class="outline-2">
+<h2 id="orgbaf9e36">Future Scenario</h2>
+<div class="outline-text-2" id="text-orgbaf9e36">
+<div class="NOTES" id="org0095f53">
 
 </div>
 </div>
