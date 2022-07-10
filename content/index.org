@@ -1,23 +1,27 @@
 #+title: Monad Cakes
 
-******* Welcome to my personal website
+            Welcome to my personal website
 
-------------------------------------------
-     /Hi, I am Uday Kiran(Linux, Emacs, Haskell enthusiast)/
+            ------------------------------------------
+                /Hi, I am Uday Kiran(Linux, Emacs, Haskell enthusiast)/
 
-     [[https://github.com/udaycruise2903][Github]] |  [[https://twitter.com/neoatnebula][Twitter]]
-------------------------------------------
+                [[https://github.com/udaycruise2903][Github]]  |  [[https://twitter.com/neoatnebula][Twitter]]
+            ------------------------------------------
 
-***** Blog
+****** Blog
 
 ********** [[./blog/learning-haskell.org][Learning Haskell]]
 ********** [[./blog/learning-agda.org][Learning Agda]]
 ********** [[./blog/softwares-that-i-use.org][Softwares that i use]]
 
-***** Notes
+****** Notes
 
 ********** [[./notes/haskell-programming-from-first-principles.org][Haskell Programming from First Principles]]
 
-***** Slides
+****** Slides
 
 ********** [[./slides/project-slides.html][project slides]]
+
+****** My Favourites
+
+********** [[https://www.aosabook.org/en/index.html][The Architecture of Open Source Applications]]
