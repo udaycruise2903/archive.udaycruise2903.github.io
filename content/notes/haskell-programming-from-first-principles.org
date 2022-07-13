@@ -49,6 +49,22 @@
 
 ***** Chapter 4 - Basic Datatypes
 
+1. Int size has a min and max range. Integer size depends on the system.
+2. floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)
+3. In the case of Integer, and most numeric datatypes, these data constructors are not written out because they include an infinite series of whole numbers. We would need infinite  data constructors stretching up from zero.
+4. Num typeclass is a superclass of fractional typeclass.
+5. values of Fractional a => a default to the floating point doucble. It is better to use arbitrary precision sibling to Integer.
+   #+begin_src haskell
+   4 / 2
+   #+end_src
+6. x /= 5. (/=) symbol means *not equal to*.
+7. Ord typeclass has lexicographic ordering. ex: Chris < Julie
+8. Scope is a way to refer to where a named binding to an expression is valid.
+9. #+begin_src haskell
+   data (,) a b
+   #+end_src
+10. [char] - String, [a] - List
+
 ***** Chapter 11 - Algebraic Datatypes
 
 1. Type constructors are used only in Type Signatures, Data constructors are used at term level.
@@ -59,4 +75,3 @@
 5. an empty list has to be applied to a concrete type before it is itself a concrete type.
    :k []
    * -> *
-6.
