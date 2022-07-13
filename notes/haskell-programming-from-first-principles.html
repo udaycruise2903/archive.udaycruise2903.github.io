@@ -13,9 +13,9 @@
 <div id="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-orgcda1060" class="outline-2">
-<h2 id="orgcda1060">Preface</h2>
-<div class="outline-text-2" id="text-orgcda1060">
+<div id="outline-container-org45ead32" class="outline-2">
+<h2 id="org45ead32">Preface</h2>
+<div class="outline-text-2" id="text-org45ead32">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org448c4bc" class="outline-2">
-<h2 id="org448c4bc">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-org448c4bc">
+<div id="outline-container-org9d25a20" class="outline-2">
+<h2 id="org9d25a20">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-org9d25a20">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org28030db" class="outline-2">
-<h2 id="org28030db">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-org28030db">
+<div id="outline-container-org5744252" class="outline-2">
+<h2 id="org5744252">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-org5744252">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org1a22373" class="outline-2">
-<h2 id="org1a22373">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-org1a22373">
+<div id="outline-container-org94c1d99" class="outline-2">
+<h2 id="org94c1d99">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org94c1d99">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,13 +85,35 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-orgb8fc3a1" class="outline-2">
-<h2 id="orgb8fc3a1">Chapter 4 - Basic Datatypes</h2>
+<div id="outline-container-org73461d2" class="outline-2">
+<h2 id="org73461d2">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-org73461d2">
+<ol class="org-ol">
+<li>Int size has a min and max range. Integer size depends on the system.</li>
+<li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
+<li>In the case of Integer, and most numeric datatypes, these data constructors are not written out because they include an infinite series of whole numbers. We would need infinite  data constructors stretching up from zero.</li>
+<li>Num typeclass is a superclass of fractional typeclass.</li>
+<li><p>
+values of Fractional a =&gt; a default to the floating point doucble. It is better to use arbitrary precision sibling to Integer.
+</p>
+<div class="org-src-container">
+<pre class="src src-haskell">4 / 2
+</pre>
+</div></li>
+<li>x /= 5. (/=) symbol means <b>not equal to</b>.</li>
+<li>Ord typeclass has lexicographic ordering. ex: Chris &lt; Julie</li>
+<li>Scope is a way to refer to where a named binding to an expression is valid.</li>
+<li>#+begin<sub>src</sub> haskell
+data (,) a b
+#+end<sub>src</sub></li>
+<li>[char] - String, [a] - List</li>
+</ol>
+</div>
 </div>
 
-<div id="outline-container-org9360fab" class="outline-2">
-<h2 id="org9360fab">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-org9360fab">
+<div id="outline-container-org8016e9c" class="outline-2">
+<h2 id="org8016e9c">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-org8016e9c">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
@@ -103,7 +125,6 @@ ex: data PugType = pugData</li>
 <ul class="org-ul">
 <li>-&gt; *</li>
 </ul></li>
-<li></li>
 </ol>
 </div>
 </div>
