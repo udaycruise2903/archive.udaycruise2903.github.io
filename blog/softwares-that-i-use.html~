@@ -13,46 +13,52 @@
 <div id="content" class="content">
 <h1 class="title">Softwares that i use</h1>
 
-<div id="outline-container-orgb5189a8" class="outline-2">
-<h2 id="orgb5189a8">Archlinux</h2>
-<div class="outline-text-2" id="text-orgb5189a8">
+<div id="outline-container-orge13843b" class="outline-2">
+<h2 id="orge13843b">Archlinux</h2>
+<div class="outline-text-2" id="text-orge13843b">
 </div>
 <ul class="org-ul">
-<li><a id="org09db057"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
-<li><a id="orgf8c9b06"></a>b43-firmware(driver)<br /></li>
-<li><a id="org977b492"></a>NetworkManager<br /></li>
-<li><a id="orgc23e798"></a>mpv<br /></li>
-<li><a id="org1db84ec"></a>udiskie<br /></li>
-<li><a id="org4013465"></a>ntfs-3g(driver)<br /></li>
-<li><a id="org2372232"></a>pavucontrol<br /></li>
-<li><a id="orgfe316ae"></a>transmission-gtk<br /></li>
-<li><a id="org8662c36"></a>lightdm(lightdm-gtk-greeter)<br /></li>
-<li><a id="orgdebb956"></a>accountsservice<br /></li>
-<li><a id="orga09e075"></a>yay<br /></li>
-<li><a id="org059f844"></a>nitrogen<br /></li>
-<li><a id="org2239173"></a>brave<br /></li>
-<li><a id="orgae1c87e"></a>qutebrowser, nyxt browser<br /></li>
-<li><a id="org0540f27"></a>light<br /></li>
-<li><a id="org8f90712"></a>pulseaudio<br /></li>
-<li><a id="orgc2e35c1"></a>touchpad-indicator<br /></li>
-<li><a id="orga3e842c"></a>SimpleScreenRecorder<br /></li>
-<li><a id="org6520b22"></a>Zathura<br /></li>
-<li><a id="org1ae1613"></a>Xfce4-screenshooter<br /></li>
-<li><a id="org90c59c6"></a>ffmpeg<br /></li>
+<li><a id="orge5c2a1d"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
+<li><a id="org4d0b0d1"></a>b43-firmware(driver)<br /></li>
+<li><a id="org45121c3"></a>NetworkManager<br /></li>
+<li><a id="orga43e6d9"></a>mpv<br /></li>
+<li><a id="org8d0f1d8"></a>udiskie<br /></li>
+<li><a id="org2f69077"></a>ntfs-3g(driver)<br /></li>
+<li><a id="org284a498"></a>pavucontrol<br /></li>
+<li><a id="org76a5f7b"></a>transmission-gtk<br /></li>
+<li><a id="org71f5ef0"></a>lightdm(lightdm-gtk-greeter)<br /></li>
+<li><a id="org7351e3b"></a>accountsservice<br /></li>
+<li><a id="org0b0cd4e"></a>yay<br /></li>
+<li><a id="org4dd566d"></a>nitrogen<br /></li>
+<li><a id="org817e80b"></a>brave<br /></li>
+<li><a id="org9b405bd"></a>qutebrowser, nyxt browser<br /></li>
+<li><a id="orgb68f145"></a>light<br /></li>
+<li><a id="org84afbb0"></a>pipewire<br /></li>
+<li><a id="org3739703"></a>pulseaudio volume control<br /></li>
+<li><a id="orgb70ed26"></a>pulseaudio volume equaliser<br /></li>
+<li><a id="org2319ce7"></a>touchpad-indicator<br /></li>
+<li><a id="org06ba7a6"></a>SimpleScreenRecorder<br /></li>
+<li><a id="orgbc03dd3"></a>Zathura<br /></li>
+<li><a id="org0476d5e"></a><a href="https://github.com/ahrm/sioyek/releases">Sioyek PDF viewer</a><br /></li>
+<li><a id="org9c9eaf4"></a>Xfce4-screenshooter<br /></li>
+<li><a id="org32c3cfa"></a>ffmpeg<br /></li>
+<li><a id="orgaa12e46"></a><a href="https://github.com/blueman-project/blueman">blueman bluetooth GUI</a><br /></li>
+<li><a id="org37cbf07"></a><a href="https://archlinux.org/packages/?name=bluez">Bluez bluetooth protocol stack</a><br /></li>
+<li><a id="orgf1b2930"></a>tmux<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orga6545d3" class="outline-2">
-<h2 id="orga6545d3">Emacs</h2>
+<div id="outline-container-org7888d1d" class="outline-2">
+<h2 id="org7888d1d">DoomEmacs</h2>
 </div>
-<div id="outline-container-org5cdea5f" class="outline-2">
-<h2 id="org5cdea5f">ghcup</h2>
-<div class="outline-text-2" id="text-org5cdea5f">
+<div id="outline-container-org42b7691" class="outline-2">
+<h2 id="org42b7691">ghcup</h2>
+<div class="outline-text-2" id="text-org42b7691">
 </div>
 <ul class="org-ul">
-<li><a id="orgbd8fa76"></a>stack<br /></li>
-<li><a id="org93cbf22"></a>cabal<br /></li>
-<li><a id="orgd2f4251"></a>ghci<br /></li>
+<li><a id="org3185f20"></a>stack<br /></li>
+<li><a id="orgb1b8299"></a>cabal<br /></li>
+<li><a id="orge15bf8b"></a>ghci<br /></li>
 </ul>
 </div>
 </div>
