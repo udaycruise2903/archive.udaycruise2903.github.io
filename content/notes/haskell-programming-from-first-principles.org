@@ -65,6 +65,26 @@
    #+end_src
 10. [char] - String, [a] - List
 
+***** Chapter 5 - Types
+
+1. (->) is an infix operator and right associative.
+ex:
+#+begin_src haskell
+f :: a -> a -> a
+-- associates to
+f :: a -> (a -> a)
+#+end_src
+2. function applicative is left associative. So, the leftmost or outermost arguments are evaluated first.
+3. Int can make use of the Num and Integral typeclasses because it has instances of both.
+4. Haskell's type inference is built on Damas-Hindley-Milner type system.
+5. #+begin_src haskell
+   f 1 2
+   f :: Num a => a -> a -> a
+   :t f 1
+   f 1 :: Num a => a -> a
+   #+end_src
+6.
+
 ***** Chapter 11 - Algebraic Datatypes
 
 1. Type constructors are used only in Type Signatures, Data constructors are used at term level.

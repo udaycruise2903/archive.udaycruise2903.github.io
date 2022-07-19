@@ -1,32 +1,38 @@
 #+title: Softwares that i use
 
-****** Archlinux
+** Archlinux
 
-********* xorg xorg-xinit xorg-xmodmap
-********* b43-firmware(driver)
-********* NetworkManager
-********* mpv
-********* udiskie
-********* ntfs-3g(driver)
-********* pavucontrol
-********* transmission-gtk
-********* lightdm(lightdm-gtk-greeter)
-********* accountsservice
-********* yay
-********* nitrogen
-********* brave
-********* qutebrowser, nyxt browser
-********* light
-********* pulseaudio
-********* touchpad-indicator
-********* SimpleScreenRecorder
-********* Zathura
-********* Xfce4-screenshooter
-********* ffmpeg
+***** xorg xorg-xinit xorg-xmodmap
+***** b43-firmware(driver)
+***** NetworkManager
+***** mpv
+***** udiskie
+***** ntfs-3g(driver)
+***** pavucontrol
+***** transmission-gtk
+***** lightdm(lightdm-gtk-greeter)
+***** accountsservice
+***** yay
+***** nitrogen
+***** brave
+***** qutebrowser, nyxt browser
+***** light
+***** pipewire
+***** pulseaudio volume control
+***** pulseaudio volume equaliser
+***** touchpad-indicator
+***** SimpleScreenRecorder
+***** Zathura
+***** [[https://github.com/ahrm/sioyek/releases][Sioyek PDF viewer]]
+***** Xfce4-screenshooter
+***** ffmpeg
+***** [[https://github.com/blueman-project/blueman][blueman bluetooth GUI]]
+***** [[https://archlinux.org/packages/?name=bluez][Bluez bluetooth protocol stack]]
+***** tmux
 
-****** Emacs
-****** ghcup
+** DoomEmacs
+** ghcup
 
-********* stack
-********* cabal
-********* ghci
+***** stack
+***** cabal
+***** ghci
