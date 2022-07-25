@@ -5,13 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Monad Cakes</title>
+<title>Monads maga!</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">Monad Cakes</h1>
+<h1 class="title">Monads maga!</h1>
 <p>
 Welcome to my personal website
 </p>
@@ -26,41 +26,42 @@ Welcome to my personal website
 </p>
 <hr />
 
-<div id="outline-container-orgca96c63" class="outline-2">
-<h2 id="orgca96c63">Blog</h2>
-<div class="outline-text-2" id="text-orgca96c63">
+<div id="outline-container-org063862c" class="outline-2">
+<h2 id="org063862c">Blog</h2>
+<div class="outline-text-2" id="text-org063862c">
 </div>
 <ul class="org-ul">
-<li><a id="orgb84ae20"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org9d02cc0"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
-<li><a id="org86d4f7f"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="org2981455"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org64fff31"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
+<li><a id="org94b4e20"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org894b60f" class="outline-2">
-<h2 id="org894b60f">Notes</h2>
-<div class="outline-text-2" id="text-org894b60f">
+<div id="outline-container-org22e6dd4" class="outline-2">
+<h2 id="org22e6dd4">Notes</h2>
+<div class="outline-text-2" id="text-org22e6dd4">
 </div>
 <ul class="org-ul">
-<li><a id="org4ce70f2"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="org0a108fd"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="orge26f008"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org35ad6d1" class="outline-2">
-<h2 id="org35ad6d1">Slides</h2>
-<div class="outline-text-2" id="text-org35ad6d1">
+<div id="outline-container-org6cb10c5" class="outline-2">
+<h2 id="org6cb10c5">Slides</h2>
+<div class="outline-text-2" id="text-org6cb10c5">
 </div>
 <ul class="org-ul">
-<li><a id="org2a923c5"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
+<li><a id="org397ff23"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org280f106" class="outline-2">
-<h2 id="org280f106">My Favourites</h2>
-<div class="outline-text-2" id="text-org280f106">
+<div id="outline-container-orga10ff00" class="outline-2">
+<h2 id="orga10ff00">My Favourites</h2>
+<div class="outline-text-2" id="text-orga10ff00">
 </div>
 <ul class="org-ul">
-<li><a id="orga8633a8"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
+<li><a id="org18d58a4"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
 </ul>
 </div>
 </div>

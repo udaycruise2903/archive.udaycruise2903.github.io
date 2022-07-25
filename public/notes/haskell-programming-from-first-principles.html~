@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-orgc6ad3b7" class="outline-2">
-<h2 id="orgc6ad3b7">Preface</h2>
-<div class="outline-text-2" id="text-orgc6ad3b7">
+<div id="outline-container-orgb89f652" class="outline-2">
+<h2 id="orgb89f652">Preface</h2>
+<div class="outline-text-2" id="text-orgb89f652">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-orgbda41bb" class="outline-2">
-<h2 id="orgbda41bb">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-orgbda41bb">
+<div id="outline-container-orga7ee411" class="outline-2">
+<h2 id="orga7ee411">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-orga7ee411">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org80f6f8c" class="outline-2">
-<h2 id="org80f6f8c">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-org80f6f8c">
+<div id="outline-container-orgbe014d9" class="outline-2">
+<h2 id="orgbe014d9">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orgbe014d9">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org0b9d70c" class="outline-2">
-<h2 id="org0b9d70c">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-org0b9d70c">
+<div id="outline-container-org261b054" class="outline-2">
+<h2 id="org261b054">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org261b054">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,9 +85,9 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-org76bea08" class="outline-2">
-<h2 id="org76bea08">Chapter 4 - Basic Datatypes</h2>
-<div class="outline-text-2" id="text-org76bea08">
+<div id="outline-container-orgb236dc1" class="outline-2">
+<h2 id="orgb236dc1">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-orgb236dc1">
 <ol class="org-ol">
 <li>Int size has a min and max range. Integer size depends on the system.</li>
 <li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
@@ -111,9 +111,39 @@ data (,) a b
 </div>
 </div>
 
-<div id="outline-container-orgf4f673a" class="outline-2">
-<h2 id="orgf4f673a">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-orgf4f673a">
+<div id="outline-container-org3c3e520" class="outline-2">
+<h2 id="org3c3e520">Chapter 5 - Types</h2>
+<div class="outline-text-2" id="text-org3c3e520">
+<ol class="org-ol">
+<li>(-&gt;) is an infix operator and right associative.</li>
+</ol>
+<p>
+ex:
+</p>
+<div class="org-src-container">
+<pre class="src src-haskell">f :: a -&gt; a -&gt; a
+-- associates to
+f :: a -&gt; (a -&gt; a)
+</pre>
+</div>
+<ol class="org-ol">
+<li>function applicative is left associative. So, the leftmost or outermost arguments are evaluated first.</li>
+<li>Int can make use of the Num and Integral typeclasses because it has instances of both.</li>
+<li>Haskell's type inference is built on Damas-Hindley-Milner type system.</li>
+<li>#+begin<sub>src</sub> haskell
+f 1 2
+f :: Num a =&gt; a -&gt; a -&gt; a
+:t f 1
+f 1 :: Num a =&gt; a -&gt; a
+#+end<sub>src</sub></li>
+<li></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org2d25020" class="outline-2">
+<h2 id="org2d25020">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-org2d25020">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.

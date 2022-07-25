@@ -1,4 +1,4 @@
-#+title: Monad Cakes
+#+title: Monads maga!
 
             Welcome to my personal website
 
@@ -17,6 +17,7 @@
 ****** Notes
 
 ********** [[./notes/haskell-programming-from-first-principles.org][Haskell Programming from First Principles]]
+********** [[./notes/soh-basics-of-haskell.org][Basics-of-haskell by Bartosz Milewski (School of Haskell)]]
 
 ****** Slides
 
