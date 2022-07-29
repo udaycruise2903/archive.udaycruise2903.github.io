@@ -18,6 +18,7 @@
 
 ********** [[./notes/haskell-programming-from-first-principles.org][Haskell Programming from First Principles]]
 ********** [[./notes/soh-basics-of-haskell.org][Basics-of-haskell by Bartosz Milewski (School of Haskell)]]
+********** [[./notes/get-programming-with-haskell.org][Get Programming with Haskell]]
 
 ****** Slides
 

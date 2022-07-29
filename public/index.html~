@@ -26,42 +26,42 @@ Welcome to my personal website
 </p>
 <hr />
 
-<div id="outline-container-org063862c" class="outline-2">
-<h2 id="org063862c">Blog</h2>
-<div class="outline-text-2" id="text-org063862c">
+<div id="outline-container-orgaffdda8" class="outline-2">
+<h2 id="orgaffdda8">Blog</h2>
+<div class="outline-text-2" id="text-orgaffdda8">
 </div>
 <ul class="org-ul">
-<li><a id="org2981455"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org64fff31"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
-<li><a id="org94b4e20"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="orgd3c87d5"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="orgedad8d0"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
+<li><a id="org33116f4"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org22e6dd4" class="outline-2">
-<h2 id="org22e6dd4">Notes</h2>
-<div class="outline-text-2" id="text-org22e6dd4">
+<div id="outline-container-orgffd93b5" class="outline-2">
+<h2 id="orgffd93b5">Notes</h2>
+<div class="outline-text-2" id="text-orgffd93b5">
 </div>
 <ul class="org-ul">
-<li><a id="org0a108fd"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
-<li><a id="orge26f008"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
+<li><a id="org63df531"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="org7f5f7c1"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org6cb10c5" class="outline-2">
-<h2 id="org6cb10c5">Slides</h2>
-<div class="outline-text-2" id="text-org6cb10c5">
+<div id="outline-container-org7740feb" class="outline-2">
+<h2 id="org7740feb">Slides</h2>
+<div class="outline-text-2" id="text-org7740feb">
 </div>
 <ul class="org-ul">
-<li><a id="org397ff23"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
+<li><a id="orgbffd653"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orga10ff00" class="outline-2">
-<h2 id="orga10ff00">My Favourites</h2>
-<div class="outline-text-2" id="text-orga10ff00">
+<div id="outline-container-orge044e24" class="outline-2">
+<h2 id="orge044e24">My Favourites</h2>
+<div class="outline-text-2" id="text-orge044e24">
 </div>
 <ul class="org-ul">
-<li><a id="org18d58a4"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
+<li><a id="org65f1966"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
 </ul>
 </div>
 </div>

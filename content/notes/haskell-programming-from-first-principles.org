@@ -83,7 +83,12 @@ f :: a -> (a -> a)
    :t f 1
    f 1 :: Num a => a -> a
    #+end_src
-6.
+
+***** Chapter 6 - Types
+
+1. Do not use Read for Bool.
+2. Enum must be members of Ord, All members of Ord must be member of Num
+3. Don't use Int as an Implicit sum type as C programmers commonly do. . . .
 
 ***** Chapter 11 - Algebraic Datatypes
 
@@ -95,3 +100,21 @@ f :: a -> (a -> a)
 5. an empty list has to be applied to a concrete type before it is itself a concrete type.
    :k []
    * -> *
+
+***** chapter 12 - Signaling adversity
+
+1. #+begin_src haskell
+   type name = String
+   type Age = Integer
+
+   data Person = Person Name Age deriving Show
+
+   mkPerson :: Name -> Age -> Maybe Person
+   mkPerson name age =
+     | name /= "" && age >= 0 =
+         Just $ Person name age
+     | otherwise = nothin
+#+end_src
+2. :: syntax usually means "has type of".
+3. kind * is the kind of all standard lifeted types, while types that have the kind # are unlifted.
+4.
