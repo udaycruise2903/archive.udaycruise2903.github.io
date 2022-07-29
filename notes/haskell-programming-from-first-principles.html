@@ -13,9 +13,9 @@
 <div id="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-orgc5fd86a" class="outline-2">
-<h2 id="orgc5fd86a">Preface</h2>
-<div class="outline-text-2" id="text-orgc5fd86a">
+<div id="outline-container-org3c887b6" class="outline-2">
+<h2 id="org3c887b6">Preface</h2>
+<div class="outline-text-2" id="text-org3c887b6">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org2b72667" class="outline-2">
-<h2 id="org2b72667">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-org2b72667">
+<div id="outline-container-org9df6515" class="outline-2">
+<h2 id="org9df6515">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-org9df6515">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-orgcf71f1a" class="outline-2">
-<h2 id="orgcf71f1a">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-orgcf71f1a">
+<div id="outline-container-orgc54d24b" class="outline-2">
+<h2 id="orgc54d24b">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orgc54d24b">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-orgd381222" class="outline-2">
-<h2 id="orgd381222">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-orgd381222">
+<div id="outline-container-org5d62a7d" class="outline-2">
+<h2 id="org5d62a7d">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org5d62a7d">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,9 +85,9 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-org41d3888" class="outline-2">
-<h2 id="org41d3888">Chapter 4 - Basic Datatypes</h2>
-<div class="outline-text-2" id="text-org41d3888">
+<div id="outline-container-orga9eedf9" class="outline-2">
+<h2 id="orga9eedf9">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-orga9eedf9">
 <ol class="org-ol">
 <li>Int size has a min and max range. Integer size depends on the system.</li>
 <li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
@@ -111,9 +111,9 @@ data (,) a b
 </div>
 </div>
 
-<div id="outline-container-orgde0e325" class="outline-2">
-<h2 id="orgde0e325">Chapter 5 - Types</h2>
-<div class="outline-text-2" id="text-orgde0e325">
+<div id="outline-container-orgadf3a75" class="outline-2">
+<h2 id="orgadf3a75">Chapter 5 - Types</h2>
+<div class="outline-text-2" id="text-orgadf3a75">
 <ol class="org-ol">
 <li>(-&gt;) is an infix operator and right associative.</li>
 </ol>
@@ -136,14 +136,24 @@ f :: Num a =&gt; a -&gt; a -&gt; a
 :t f 1
 f 1 :: Num a =&gt; a -&gt; a
 #+end<sub>src</sub></li>
-<li></li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-org2bc0216" class="outline-2">
-<h2 id="org2bc0216">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-org2bc0216">
+<div id="outline-container-org49b7c5f" class="outline-2">
+<h2 id="org49b7c5f">Chapter 6 - Types</h2>
+<div class="outline-text-2" id="text-org49b7c5f">
+<ol class="org-ol">
+<li>Do not use Read for Bool.</li>
+<li>Enum must be members of Ord, All members of Ord must be member of Num</li>
+<li>Don't use Int as an Implicit sum type as C programmers commonly do. . . .</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org1a2b484" class="outline-2">
+<h2 id="org1a2b484">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-org1a2b484">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
@@ -155,6 +165,63 @@ ex: data PugType = pugData</li>
 <ul class="org-ul">
 <li>-&gt; *</li>
 </ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org7b8fc62" class="outline-2">
+<h2 id="org7b8fc62">chapter 12 - Signaling adversity</h2>
+<div class="outline-text-2" id="text-org7b8fc62">
+<ol class="org-ol">
+<li><p>
+#+begin<sub>src</sub> haskell
+type name = String
+type Age = Integer
+</p>
+
+<p>
+data Person = Person Name Age deriving Show
+</p>
+
+<p>
+mkPerson :: Name -&gt; Age -&gt; Maybe Person
+mkPerson name age =
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">name /= "" &amp;&amp; age &gt;= 0 =</td>
+</tr>
+</tbody>
+</table>
+<p>
+Just $ Person name age
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">otherwise = nothin</td>
+</tr>
+</tbody>
+</table></li>
+</ol>
+<p>
+#+end<sub>src</sub>
+</p>
+<ol class="org-ol">
+<li>:: syntax usually means "has type of".</li>
+<li>kind * is the kind of all standard lifeted types, while types that have the kind # are unlifted.</li>
+<li></li>
 </ol>
 </div>
 </div>
