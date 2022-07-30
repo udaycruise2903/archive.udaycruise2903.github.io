@@ -60,7 +60,8 @@
 6. x /= 5. (/=) symbol means *not equal to*.
 7. Ord typeclass has lexicographic ordering. ex: Chris < Julie
 8. Scope is a way to refer to where a named binding to an expression is valid.
-9. #+begin_src haskell
+9.
+   #+begin_src haskell
    data (,) a b
    #+end_src
 10. [char] - String, [a] - List
@@ -77,11 +78,12 @@ f :: a -> (a -> a)
 2. function applicative is left associative. So, the leftmost or outermost arguments are evaluated first.
 3. Int can make use of the Num and Integral typeclasses because it has instances of both.
 4. Haskell's type inference is built on Damas-Hindley-Milner type system.
-5. #+begin_src haskell
-   f 1 2
-   f :: Num a => a -> a -> a
-   :t f 1
-   f 1 :: Num a => a -> a
+5.
+   #+begin_src haskell
+    f 1 2
+    f :: Num a => a -> a -> a
+    :t f 1
+    f 1 :: Num a => a -> a
    #+end_src
 
 ***** Chapter 6 - Types
@@ -98,8 +100,10 @@ f :: a -> (a -> a)
 3. :kind - to check the kind of a type.
 4. Bool and [Int] are fully applied, concrete types, so their kind signatures have no function arrows.
 5. an empty list has to be applied to a concrete type before it is itself a concrete type.
+   #+begin_src haskell
    :k []
    * -> *
+   #+end_src
 
 ***** chapter 12 - Signaling adversity
 
@@ -110,11 +114,10 @@ f :: a -> (a -> a)
    data Person = Person Name Age deriving Show
 
    mkPerson :: Name -> Age -> Maybe Person
-   mkPerson name age =
-     | name /= "" && age >= 0 =
-         Just $ Person name age
+   mkPerson name age
+     | name /= "" && age >= 0 = Just $ Person name age
      | otherwise = nothin
-#+end_src
+   #+end_src
 2. :: syntax usually means "has type of".
 3. kind * is the kind of all standard lifeted types, while types that have the kind # are unlifted.
 4.

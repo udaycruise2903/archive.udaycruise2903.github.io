@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Haskell Mooc Haskell Mooc</h1>
 
-<div id="outline-container-org821d3f0" class="outline-2">
-<h2 id="org821d3f0">Monoids and Semigroups</h2>
-<div class="outline-text-2" id="text-org821d3f0">
+<div id="outline-container-org2abd56e" class="outline-2">
+<h2 id="org2abd56e">Monoids and Semigroups</h2>
+<div class="outline-text-2" id="text-org2abd56e">
 <ol class="org-ol">
 <li><b>(head . tail) tail</b> computes the third element of a list.</li>
 <li>Lists are an instance of Semigroup with (++) as (&lt;&gt;):
