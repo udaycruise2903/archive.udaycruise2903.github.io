@@ -13,9 +13,9 @@
 <div id="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-org88fcec2" class="outline-2">
-<h2 id="org88fcec2">Preface</h2>
-<div class="outline-text-2" id="text-org88fcec2">
+<div id="outline-container-org0260dfd" class="outline-2">
+<h2 id="org0260dfd">Preface</h2>
+<div class="outline-text-2" id="text-org0260dfd">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-orgfbf1732" class="outline-2">
-<h2 id="orgfbf1732">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-orgfbf1732">
+<div id="outline-container-orge31dca0" class="outline-2">
+<h2 id="orge31dca0">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-orge31dca0">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org5a68963" class="outline-2">
-<h2 id="org5a68963">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-org5a68963">
+<div id="outline-container-orgcc03e32" class="outline-2">
+<h2 id="orgcc03e32">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orgcc03e32">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-orgc6f6939" class="outline-2">
-<h2 id="orgc6f6939">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-orgc6f6939">
+<div id="outline-container-org77970ed" class="outline-2">
+<h2 id="org77970ed">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org77970ed">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,9 +85,9 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-orgef40f3c" class="outline-2">
-<h2 id="orgef40f3c">Chapter 4 - Basic Datatypes</h2>
-<div class="outline-text-2" id="text-orgef40f3c">
+<div id="outline-container-orged6bc07" class="outline-2">
+<h2 id="orged6bc07">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-orged6bc07">
 <ol class="org-ol">
 <li>Int size has a min and max range. Integer size depends on the system.</li>
 <li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
@@ -103,17 +103,18 @@ values of Fractional a =&gt; a default to the floating point doucble. It is bett
 <li>x /= 5. (/=) symbol means <b>not equal to</b>.</li>
 <li>Ord typeclass has lexicographic ordering. ex: Chris &lt; Julie</li>
 <li>Scope is a way to refer to where a named binding to an expression is valid.</li>
-<li>#+begin<sub>src</sub> haskell
-data (,) a b
-#+end<sub>src</sub></li>
+<li><div class="org-src-container">
+<pre class="src src-haskell">data (,) a b
+</pre>
+</div></li>
 <li>[char] - String, [a] - List</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-org0ee1ed8" class="outline-2">
-<h2 id="org0ee1ed8">Chapter 5 - Types</h2>
-<div class="outline-text-2" id="text-org0ee1ed8">
+<div id="outline-container-orgc7408bb" class="outline-2">
+<h2 id="orgc7408bb">Chapter 5 - Types</h2>
+<div class="outline-text-2" id="text-orgc7408bb">
 <ol class="org-ol">
 <li>(-&gt;) is an infix operator and right associative.</li>
 </ol>
@@ -130,19 +131,20 @@ f :: a -&gt; (a -&gt; a)
 <li>function applicative is left associative. So, the leftmost or outermost arguments are evaluated first.</li>
 <li>Int can make use of the Num and Integral typeclasses because it has instances of both.</li>
 <li>Haskell's type inference is built on Damas-Hindley-Milner type system.</li>
-<li>#+begin<sub>src</sub> haskell
-f 1 2
+<li><div class="org-src-container">
+<pre class="src src-haskell">f 1 2
 f :: Num a =&gt; a -&gt; a -&gt; a
 :t f 1
 f 1 :: Num a =&gt; a -&gt; a
-#+end<sub>src</sub></li>
+</pre>
+</div></li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-org7668cb8" class="outline-2">
-<h2 id="org7668cb8">Chapter 6 - Types</h2>
-<div class="outline-text-2" id="text-org7668cb8">
+<div id="outline-container-org3dfdbe2" class="outline-2">
+<h2 id="org3dfdbe2">Chapter 6 - Types</h2>
+<div class="outline-text-2" id="text-org3dfdbe2">
 <ol class="org-ol">
 <li>Do not use Read for Bool.</li>
 <li>Enum must be members of Ord, All members of Ord must be member of Num</li>
@@ -151,27 +153,30 @@ f 1 :: Num a =&gt; a -&gt; a
 </div>
 </div>
 
-<div id="outline-container-orgaa8cf87" class="outline-2">
-<h2 id="orgaa8cf87">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-orgaa8cf87">
+<div id="outline-container-orgbba6eea" class="outline-2">
+<h2 id="orgbba6eea">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-orgbba6eea">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
 ex: data PugType = pugData</li>
 <li>:kind - to check the kind of a type.</li>
 <li>Bool and [Int] are fully applied, concrete types, so their kind signatures have no function arrows.</li>
-<li>an empty list has to be applied to a concrete type before it is itself a concrete type.
-:k []
-<ul class="org-ul">
-<li>-&gt; *</li>
-</ul></li>
+<li><p>
+an empty list has to be applied to a concrete type before it is itself a concrete type.
+</p>
+<div class="org-src-container">
+<pre class="src src-haskell">:k []
+* -&gt; *
+</pre>
+</div></li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-org6455127" class="outline-2">
-<h2 id="org6455127">chapter 12 - Signaling adversity</h2>
-<div class="outline-text-2" id="text-org6455127">
+<div id="outline-container-org79acac6" class="outline-2">
+<h2 id="org79acac6">chapter 12 - Signaling adversity</h2>
+<div class="outline-text-2" id="text-org79acac6">
 <ol class="org-ol">
 <li><p>
 #+begin<sub>src</sub> haskell
@@ -185,7 +190,7 @@ data Person = Person Name Age deriving Show
 
 <p>
 mkPerson :: Name -&gt; Age -&gt; Maybe Person
-mkPerson name age =
+mkPerson name age
 </p>
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -195,30 +200,17 @@ mkPerson name age =
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">name /= "" &amp;&amp; age &gt;= 0 =</td>
+<td class="org-left">name /= "" &amp;&amp; age &gt;= 0 = Just $ Person name age</td>
 </tr>
-</tbody>
-</table>
-<p>
-Just $ Person name age
-</p>
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
-
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<tbody>
 <tr>
 <td class="org-left">otherwise = nothin</td>
 </tr>
 </tbody>
-</table></li>
-</ol>
+</table>
 <p>
 #+end<sub>src</sub>
-</p>
-<ol class="org-ol">
+</p></li>
 <li>:: syntax usually means "has type of".</li>
 <li>kind * is the kind of all standard lifeted types, while types that have the kind # are unlifted.</li>
 <li></li>
