@@ -13,9 +13,9 @@
 <div id="content" class="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-org1c40a9f" class="outline-2">
-<h2 id="org1c40a9f">Preface</h2>
-<div class="outline-text-2" id="text-org1c40a9f">
+<div id="outline-container-org8ef8dbc" class="outline-2">
+<h2 id="org8ef8dbc">Preface</h2>
+<div class="outline-text-2" id="text-org8ef8dbc">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org1eb687d" class="outline-2">
-<h2 id="org1eb687d">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-org1eb687d">
+<div id="outline-container-orgf762b86" class="outline-2">
+<h2 id="orgf762b86">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-orgf762b86">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org4f8f8b5" class="outline-2">
-<h2 id="org4f8f8b5">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-org4f8f8b5">
+<div id="outline-container-orgc363349" class="outline-2">
+<h2 id="orgc363349">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orgc363349">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org4040f5b" class="outline-2">
-<h2 id="org4040f5b">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-org4040f5b">
+<div id="outline-container-org7d25188" class="outline-2">
+<h2 id="org7d25188">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org7d25188">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,9 +85,9 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-org7057b7e" class="outline-2">
-<h2 id="org7057b7e">Chapter 4 - Basic Datatypes</h2>
-<div class="outline-text-2" id="text-org7057b7e">
+<div id="outline-container-org2fcb463" class="outline-2">
+<h2 id="org2fcb463">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-org2fcb463">
 <ol class="org-ol">
 <li>Int size has a min and max range. Integer size depends on the system.</li>
 <li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
@@ -111,9 +111,9 @@ data (,) a b
 </div>
 </div>
 
-<div id="outline-container-org29274c5" class="outline-2">
-<h2 id="org29274c5">Chapter 5 - Types</h2>
-<div class="outline-text-2" id="text-org29274c5">
+<div id="outline-container-org4f88db1" class="outline-2">
+<h2 id="org4f88db1">Chapter 5 - Types</h2>
+<div class="outline-text-2" id="text-org4f88db1">
 <ol class="org-ol">
 <li>(-&gt;) is an infix operator and right associative.</li>
 </ol>
@@ -140,9 +140,9 @@ f 1 :: Num a =&gt; a -&gt; a
 </div>
 </div>
 
-<div id="outline-container-orgf8bc421" class="outline-2">
-<h2 id="orgf8bc421">Chapter 6 - Types</h2>
-<div class="outline-text-2" id="text-orgf8bc421">
+<div id="outline-container-org7a9a167" class="outline-2">
+<h2 id="org7a9a167">Chapter 6 - Types</h2>
+<div class="outline-text-2" id="text-org7a9a167">
 <ol class="org-ol">
 <li>Do not use Read for Bool.</li>
 <li>Enum must be members of Ord, All members of Ord must be member of Num</li>
@@ -151,9 +151,9 @@ f 1 :: Num a =&gt; a -&gt; a
 </div>
 </div>
 
-<div id="outline-container-org51976a4" class="outline-2">
-<h2 id="org51976a4">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-org51976a4">
+<div id="outline-container-org8235928" class="outline-2">
+<h2 id="org8235928">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-org8235928">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
@@ -169,9 +169,9 @@ ex: data PugType = pugData</li>
 </div>
 </div>
 
-<div id="outline-container-org94cb755" class="outline-2">
-<h2 id="org94cb755">chapter 12 - Signaling adversity</h2>
-<div class="outline-text-2" id="text-org94cb755">
+<div id="outline-container-orgef1bcaa" class="outline-2">
+<h2 id="orgef1bcaa">chapter 12 - Signaling adversity</h2>
+<div class="outline-text-2" id="text-orgef1bcaa">
 <ol class="org-ol">
 <li><p>
 #+begin<sub>src</sub> haskell

@@ -2,4 +2,4 @@
 
 ***** chapter 17 Semigroups and Monoids
 
-1.
+1.Monoid requires you to specify an identity element.
