@@ -21,9 +21,16 @@
 ********** [[./notes/get-programming-with-haskell.org][Get Programming with Haskell]]
 ********** [[./notes/haskell-mooc.org][Haskell mooc]]
 
+****** Projects
+
+********** [[https://github.com/udaycruise2903/khasi-ocr][Khasi OCR]] - This is a project to create OCR model for khasi language using tesseract-ocr by LSTM layer training.
+********** [[https://github.com/udaycruise2903/khasi-dienshonhi][Khasi-dienshonhi]] - Digitalisation project on Khasi-Khasi dictionary.
+********** [[https://github.com/udaycruise2903/treasurehunt-bvj][Tresurehunt-bvj]] - This is a Unique game of solving riddles to find the next location in a treasure hunt game (Used in a campus fest).
+********** [[https://github.com/fpindia/fpindia-site][FPIndia Static Site]] - I made some contributions to this project built using Ema.
+
 ****** Slides
 
-********** [[./slides/project-slides.html][project slides]]
+********** [[./slides/project-slides.html][project slides(Discrete)]]
 
 ****** My Favourites
 

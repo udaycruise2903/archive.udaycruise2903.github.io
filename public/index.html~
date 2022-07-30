@@ -26,44 +26,56 @@ Welcome to my personal website
 </p>
 <hr />
 
-<div id="outline-container-org2763471" class="outline-2">
-<h2 id="org2763471">Blog</h2>
-<div class="outline-text-2" id="text-org2763471">
+<div id="outline-container-orga848d52" class="outline-2">
+<h2 id="orga848d52">Blog</h2>
+<div class="outline-text-2" id="text-orga848d52">
 </div>
 <ul class="org-ul">
-<li><a id="org49bfd4c"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org82c3deb"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
-<li><a id="orgb69ad12"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="org158a9bf"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="org950fa4d"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
+<li><a id="org1efde98"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org33edd7a" class="outline-2">
-<h2 id="org33edd7a">Notes</h2>
-<div class="outline-text-2" id="text-org33edd7a">
+<div id="outline-container-org7a5c2ab" class="outline-2">
+<h2 id="org7a5c2ab">Notes</h2>
+<div class="outline-text-2" id="text-org7a5c2ab">
 </div>
 <ul class="org-ul">
-<li><a id="org10e75b1"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
-<li><a id="org3dcba37"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
-<li><a id="org49dc3d6"></a><a href="./notes/get-programming-with-haskell.html">Get Programming with Haskell</a><br /></li>
-<li><a id="org62cc678"></a><a href="./notes/haskell-mooc.html">Haskell mooc</a><br /></li>
+<li><a id="org5410e7e"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="org2dfc831"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
+<li><a id="org2aa551d"></a><a href="./notes/get-programming-with-haskell.html">Get Programming with Haskell</a><br /></li>
+<li><a id="orgd1477c1"></a><a href="./notes/haskell-mooc.html">Haskell mooc</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org7ccb714" class="outline-2">
-<h2 id="org7ccb714">Slides</h2>
-<div class="outline-text-2" id="text-org7ccb714">
+<div id="outline-container-org19ec6ef" class="outline-2">
+<h2 id="org19ec6ef">Projects</h2>
+<div class="outline-text-2" id="text-org19ec6ef">
 </div>
 <ul class="org-ul">
-<li><a id="orgb2211dd"></a><a href="./slides/project-slides.html">project slides</a><br /></li>
+<li><a id="org99e2669"></a><a href="https://github.com/udaycruise2903/khasi-ocr">Khasi OCR</a> - This is a project to create OCR model for khasi language using tesseract-ocr by LSTM layer training.<br /></li>
+<li><a id="org42528a0"></a><a href="https://github.com/udaycruise2903/khasi-dienshonhi">Khasi-dienshonhi</a> - Digitalisation project on Khasi-Khasi dictionary.<br /></li>
+<li><a id="orgfebd72b"></a><a href="https://github.com/udaycruise2903/treasurehunt-bvj">Tresurehunt-bvj</a> - This is a Unique game of solving riddles to find the next location in a treasure hunt game (Used in a campus fest).<br /></li>
+<li><a id="org63ff6ab"></a><a href="https://github.com/fpindia/fpindia-site">FPIndia Static Site</a> - I made some contributions to this project.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgb6da85b" class="outline-2">
-<h2 id="orgb6da85b">My Favourites</h2>
-<div class="outline-text-2" id="text-orgb6da85b">
+<div id="outline-container-orgb3d98f7" class="outline-2">
+<h2 id="orgb3d98f7">Slides</h2>
+<div class="outline-text-2" id="text-orgb3d98f7">
 </div>
 <ul class="org-ul">
-<li><a id="org7551e57"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
+<li><a id="orgbf104fd"></a><a href="./slides/project-slides.html">project slides(Discrete)</a><br /></li>
+</ul>
+</div>
+
+<div id="outline-container-org0826dbe" class="outline-2">
+<h2 id="org0826dbe">My Favourites</h2>
+<div class="outline-text-2" id="text-org0826dbe">
+</div>
+<ul class="org-ul">
+<li><a id="org38d22ad"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
 </ul>
 </div>
 </div>
