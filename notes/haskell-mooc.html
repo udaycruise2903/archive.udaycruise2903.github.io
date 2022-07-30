@@ -5,20 +5,35 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Get Programming With Haskell</title>
+<title>Haskell Mooc Haskell Mooc</title>
 <meta name="generator" content="Org mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content">
-<h1 class="title">Get Programming With Haskell</h1>
+<h1 class="title">Haskell Mooc Haskell Mooc</h1>
 
-<div id="outline-container-org545832f" class="outline-2">
-<h2 id="org545832f">chapter 17 Semigroups and Monoids</h2>
-<div class="outline-text-2" id="text-org545832f">
-<p>
-1.Monoid requires you to specify an identity element.
+<div id="outline-container-orgd3d5894" class="outline-2">
+<h2 id="orgd3d5894">Monoids and Semigroups</h2>
+<div class="outline-text-2" id="text-orgd3d5894">
+<ol class="org-ol">
+<li><b>(head . tail) tail</b> computes the third element of a list.</li>
+<li>Lists are an instance of Semigroup with (++) as (&lt;&gt;):
+[1] &lt;&gt; [2,3] =&gt; [1,2,3]</li>
+<li><p>
+#+begin<sub>src</sub> haskell
+data Sum a = Sum a
+instance Num a =&gt; Semigroup (Sum a) where
+  Sum a &lt;&gt; Sum b = Sum (a + b)
 </p>
+
+<p>
+data Product a = Product a
+instance Num a =&gt; Semigroup (Product a) where
+  Product a &lt;&gt; Product b = Product (a * b)
+#+end<sub>src</sub>
+</p></li>
+</ol>
 </div>
 </div>
 </div>
