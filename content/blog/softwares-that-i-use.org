@@ -2,6 +2,8 @@
 
 ** Archlinux
 
+After 10 months of using Archlinux, I am moving to Pop_OS! for better dev experince. I am Switching from Doom Emacs to Neovim.
+
 ***** xorg xorg-xinit xorg-xmodmap
 ***** b43-firmware(driver)
 ***** NetworkManager

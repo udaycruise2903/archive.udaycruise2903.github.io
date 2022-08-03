@@ -31,6 +31,7 @@
 ***** [[https://planet.haskell.org/][Planet Haskell]] - Compilation of latest blog posts on haskell.
 ***** TODO [[https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell][School of haskell]]
 ***** TODO [[https://serokell.io/blog/lexing-with-alex][Parsing with haskell]]
+***** [[https://serokell.io/blog/whats-that-typeclass-monoid][Monoids]]
 
 ** Meetups
 

@@ -26,56 +26,56 @@ Welcome to my personal website
 </p>
 <hr />
 
-<div id="outline-container-orga848d52" class="outline-2">
-<h2 id="orga848d52">Blog</h2>
-<div class="outline-text-2" id="text-orga848d52">
+<div id="outline-container-orga8c13e3" class="outline-2">
+<h2 id="orga8c13e3">Blog</h2>
+<div class="outline-text-2" id="text-orga8c13e3">
 </div>
 <ul class="org-ul">
-<li><a id="org158a9bf"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
-<li><a id="org950fa4d"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
-<li><a id="org1efde98"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
+<li><a id="org280a4f2"></a><a href="./blog/learning-haskell.html">Learning Haskell</a><br /></li>
+<li><a id="orgae55714"></a><a href="./blog/learning-agda.html">Learning Agda</a><br /></li>
+<li><a id="org4106740"></a><a href="./blog/softwares-that-i-use.html">Softwares that i use</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org7a5c2ab" class="outline-2">
-<h2 id="org7a5c2ab">Notes</h2>
-<div class="outline-text-2" id="text-org7a5c2ab">
+<div id="outline-container-org061c269" class="outline-2">
+<h2 id="org061c269">Notes</h2>
+<div class="outline-text-2" id="text-org061c269">
 </div>
 <ul class="org-ul">
-<li><a id="org5410e7e"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
-<li><a id="org2dfc831"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
-<li><a id="org2aa551d"></a><a href="./notes/get-programming-with-haskell.html">Get Programming with Haskell</a><br /></li>
-<li><a id="orgd1477c1"></a><a href="./notes/haskell-mooc.html">Haskell mooc</a><br /></li>
+<li><a id="org7219536"></a><a href="./notes/haskell-programming-from-first-principles.html">Haskell Programming from First Principles</a><br /></li>
+<li><a id="orgd0ea692"></a><a href="./notes/soh-basics-of-haskell.html">Basics-of-haskell by Bartosz Milewski (School of Haskell)</a><br /></li>
+<li><a id="org0f4a61a"></a><a href="./notes/get-programming-with-haskell.html">Get Programming with Haskell</a><br /></li>
+<li><a id="orgc45e0d3"></a><a href="./notes/haskell-mooc.html">Haskell mooc</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org19ec6ef" class="outline-2">
-<h2 id="org19ec6ef">Projects</h2>
-<div class="outline-text-2" id="text-org19ec6ef">
+<div id="outline-container-org14c9347" class="outline-2">
+<h2 id="org14c9347">Projects</h2>
+<div class="outline-text-2" id="text-org14c9347">
 </div>
 <ul class="org-ul">
-<li><a id="org99e2669"></a><a href="https://github.com/udaycruise2903/khasi-ocr">Khasi OCR</a> - This is a project to create OCR model for khasi language using tesseract-ocr by LSTM layer training.<br /></li>
-<li><a id="org42528a0"></a><a href="https://github.com/udaycruise2903/khasi-dienshonhi">Khasi-dienshonhi</a> - Digitalisation project on Khasi-Khasi dictionary.<br /></li>
-<li><a id="orgfebd72b"></a><a href="https://github.com/udaycruise2903/treasurehunt-bvj">Tresurehunt-bvj</a> - This is a Unique game of solving riddles to find the next location in a treasure hunt game (Used in a campus fest).<br /></li>
-<li><a id="org63ff6ab"></a><a href="https://github.com/fpindia/fpindia-site">FPIndia Static Site</a> - I made some contributions to this project.<br /></li>
+<li><a id="org9ed8a1c"></a><a href="https://github.com/udaycruise2903/khasi-ocr">Khasi OCR</a> - This is a project to create OCR model for khasi language using tesseract-ocr by LSTM layer training.<br /></li>
+<li><a id="orgdfd1cbd"></a><a href="https://github.com/udaycruise2903/khasi-dienshonhi">Khasi-dienshonhi</a> - Digitalisation project on Khasi-Khasi dictionary.<br /></li>
+<li><a id="orga1cde31"></a><a href="https://github.com/udaycruise2903/treasurehunt-bvj">Tresurehunt-bvj</a> - This is a Unique game of solving riddles to find the next location in a treasure hunt game (Used in a campus fest).<br /></li>
+<li><a id="org578b9f5"></a><a href="https://github.com/fpindia/fpindia-site">FPIndia Static Site</a> - I made some contributions to this project built using Ema.<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgb3d98f7" class="outline-2">
-<h2 id="orgb3d98f7">Slides</h2>
-<div class="outline-text-2" id="text-orgb3d98f7">
+<div id="outline-container-org26e306d" class="outline-2">
+<h2 id="org26e306d">Slides</h2>
+<div class="outline-text-2" id="text-org26e306d">
 </div>
 <ul class="org-ul">
-<li><a id="orgbf104fd"></a><a href="./slides/project-slides.html">project slides(Discrete)</a><br /></li>
+<li><a id="orgc8176ec"></a><a href="./slides/project-slides.html">project slides(Discrete)</a><br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org0826dbe" class="outline-2">
-<h2 id="org0826dbe">My Favourites</h2>
-<div class="outline-text-2" id="text-org0826dbe">
+<div id="outline-container-org455fd8a" class="outline-2">
+<h2 id="org455fd8a">My Favourites</h2>
+<div class="outline-text-2" id="text-org455fd8a">
 </div>
 <ul class="org-ul">
-<li><a id="org38d22ad"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
+<li><a id="orge2bbc2a"></a><a href="https://www.aosabook.org/en/index.html">The Architecture of Open Source Applications</a><br /></li>
 </ul>
 </div>
 </div>
