@@ -107,7 +107,8 @@ f :: a -> (a -> a)
 
 ***** chapter 12 - Signaling adversity
 
-1. #+begin_src haskell
+1.
+   #+begin_src haskell
    type name = String
    type Age = Integer
 
@@ -120,4 +121,3 @@ f :: a -> (a -> a)
    #+end_src
 2. :: syntax usually means "has type of".
 3. kind * is the kind of all standard lifeted types, while types that have the kind # are unlifted.
-4.
