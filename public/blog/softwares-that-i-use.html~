@@ -13,52 +13,56 @@
 <div id="content" class="content">
 <h1 class="title">Softwares that i use</h1>
 
-<div id="outline-container-org7f1181b" class="outline-2">
-<h2 id="org7f1181b">Archlinux</h2>
-<div class="outline-text-2" id="text-org7f1181b">
+<div id="outline-container-org9e2b7cf" class="outline-2">
+<h2 id="org9e2b7cf">Archlinux</h2>
+<div class="outline-text-2" id="text-org9e2b7cf">
+<p>
+After 10 months of using Archlinux, I am moving to Pop<sub>OS</sub>! for better dev experince. I am Switching from Doom Emacs to Neovim.
+</p>
 </div>
+
 <ul class="org-ul">
-<li><a id="org485c11d"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
-<li><a id="org0284179"></a>b43-firmware(driver)<br /></li>
-<li><a id="org4b6e8a6"></a>NetworkManager<br /></li>
-<li><a id="orga3de23a"></a>mpv<br /></li>
-<li><a id="org8b8c16e"></a>udiskie<br /></li>
-<li><a id="org566c5ab"></a>ntfs-3g(driver)<br /></li>
-<li><a id="org75bba83"></a>pavucontrol<br /></li>
-<li><a id="org8d9fb2f"></a>transmission-gtk<br /></li>
-<li><a id="org4b38da8"></a>lightdm(lightdm-gtk-greeter)<br /></li>
-<li><a id="org8210861"></a>accountsservice<br /></li>
-<li><a id="org33f4208"></a>yay<br /></li>
-<li><a id="org1fc54df"></a>nitrogen<br /></li>
-<li><a id="org75f044a"></a>brave<br /></li>
-<li><a id="org4b4a895"></a>qutebrowser, nyxt browser<br /></li>
-<li><a id="org1673079"></a>light<br /></li>
-<li><a id="org5ac9415"></a>pipewire<br /></li>
-<li><a id="orgefcae80"></a>pulseaudio volume control<br /></li>
-<li><a id="org52efc32"></a>pulseaudio volume equaliser<br /></li>
-<li><a id="org5186f8b"></a>touchpad-indicator<br /></li>
-<li><a id="org68f8140"></a>SimpleScreenRecorder<br /></li>
-<li><a id="org352e46d"></a>Zathura<br /></li>
-<li><a id="org6a10454"></a><a href="https://github.com/ahrm/sioyek/releases">Sioyek PDF viewer</a><br /></li>
-<li><a id="org0f07d8f"></a>Xfce4-screenshooter<br /></li>
-<li><a id="org40c3822"></a>ffmpeg<br /></li>
-<li><a id="org902b0f5"></a><a href="https://github.com/blueman-project/blueman">blueman bluetooth GUI</a><br /></li>
-<li><a id="orgdaf6548"></a><a href="https://archlinux.org/packages/?name=bluez">Bluez bluetooth protocol stack</a><br /></li>
-<li><a id="orgeaa54f1"></a>tmux<br /></li>
+<li><a id="org6401100"></a>xorg xorg-xinit xorg-xmodmap<br /></li>
+<li><a id="org522b44e"></a>b43-firmware(driver)<br /></li>
+<li><a id="org9f92e49"></a>NetworkManager<br /></li>
+<li><a id="orgb27cbbc"></a>mpv<br /></li>
+<li><a id="org5c0a14d"></a>udiskie<br /></li>
+<li><a id="orgb2b2676"></a>ntfs-3g(driver)<br /></li>
+<li><a id="org5b03b7e"></a>pavucontrol<br /></li>
+<li><a id="org7eb31a1"></a>transmission-gtk<br /></li>
+<li><a id="org022c7d8"></a>lightdm(lightdm-gtk-greeter)<br /></li>
+<li><a id="org95b92a0"></a>accountsservice<br /></li>
+<li><a id="org4c1ace4"></a>yay<br /></li>
+<li><a id="org783dc0c"></a>nitrogen<br /></li>
+<li><a id="org1f80f07"></a>brave<br /></li>
+<li><a id="org25d47b1"></a>qutebrowser, nyxt browser<br /></li>
+<li><a id="org4d88cde"></a>light<br /></li>
+<li><a id="org45474a5"></a>pipewire<br /></li>
+<li><a id="org7a5d51b"></a>pulseaudio volume control<br /></li>
+<li><a id="org6499f40"></a>pulseaudio volume equaliser<br /></li>
+<li><a id="org6887656"></a>touchpad-indicator<br /></li>
+<li><a id="org77ca205"></a>SimpleScreenRecorder<br /></li>
+<li><a id="orgc338e91"></a>Zathura<br /></li>
+<li><a id="orgb337414"></a><a href="https://github.com/ahrm/sioyek/releases">Sioyek PDF viewer</a><br /></li>
+<li><a id="org6381877"></a>Xfce4-screenshooter<br /></li>
+<li><a id="orgbcb7bba"></a>ffmpeg<br /></li>
+<li><a id="orgb330517"></a><a href="https://github.com/blueman-project/blueman">blueman bluetooth GUI</a><br /></li>
+<li><a id="org4dc777b"></a><a href="https://archlinux.org/packages/?name=bluez">Bluez bluetooth protocol stack</a><br /></li>
+<li><a id="org2118a05"></a>tmux<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orgfb6a29e" class="outline-2">
-<h2 id="orgfb6a29e">DoomEmacs</h2>
+<div id="outline-container-org47fcade" class="outline-2">
+<h2 id="org47fcade">DoomEmacs</h2>
 </div>
-<div id="outline-container-orgcb7aea9" class="outline-2">
-<h2 id="orgcb7aea9">ghcup</h2>
-<div class="outline-text-2" id="text-orgcb7aea9">
+<div id="outline-container-orgbfacae2" class="outline-2">
+<h2 id="orgbfacae2">ghcup</h2>
+<div class="outline-text-2" id="text-orgbfacae2">
 </div>
 <ul class="org-ul">
-<li><a id="org5754afc"></a>stack<br /></li>
-<li><a id="orga9a7d46"></a>cabal<br /></li>
-<li><a id="org39086bc"></a>ghci<br /></li>
+<li><a id="orgb26c283"></a>stack<br /></li>
+<li><a id="org8fb97a3"></a>cabal<br /></li>
+<li><a id="org9c7ed25"></a>ghci<br /></li>
 </ul>
 </div>
 </div>

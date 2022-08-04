@@ -1,0 +1,52 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+   ((def-buffer "learning-haskell.org" "/home/neo/Documents/github/udaycruise2903.github.io/content/blog/learning-haskell.org" org-mode)
+    (def-buffer "config.el" "/home/neo/.doom.d/config.el" emacs-lisp-mode)
+    (def-buffer "init.el" "/home/neo/.doom.d/init.el" emacs-lisp-mode))
+   (def-wconf
+     (((min-height . 4)
+       (min-width . 10)
+       (min-height-ignore . 3)
+       (min-width-ignore . 3)
+       (min-height-safe . 1)
+       (min-width-safe . 2)
+       (min-pixel-height . 76)
+       (min-pixel-width . 90)
+       (min-pixel-height-ignore . 57)
+       (min-pixel-width-ignore . 27)
+       (min-pixel-height-safe . 19)
+       (min-pixel-width-safe . 18))
+      leaf
+      (pixel-width . 1350)
+      (pixel-height . 664)
+      (total-width . 150)
+      (total-height . 35)
+      (normal-height . 1.0)
+      (normal-width . 1.0)
+      (parameters
+       (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                  (0 3 .
+                                     [("/home/neo/.doom.d/init.el" 10833 "c4vcgn")
+                                      ("/home/neo/.doom.d/init.el" 10835 "enjnr5")
+                                      ("/home/neo/Documents/github/udaycruise2903.github.io/content/blog/learning-haskell.org" 2336 "kcamk8")
+                                      nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                  -1)))
+      (buffer "learning-haskell.org"
+              (selected . t)
+              (hscroll . 0)
+              (fringes 4 4 nil nil)
+              (margins nil)
+              (scroll-bars nil 0 t nil 0 t nil)
+              (vscroll . 0)
+              (dedicated)
+              (point . 1204)
+              (start . 771))
+      (prev-buffers
+       ("learning-haskell.org" 771 1204)
+       ("init.el" 1261 1896)
+       ("config.el" 4957 5736)
+       ("*compilation*<.emacs.d>" 1 984)
+       ("*doom*" 1 641)
+       ("*scratch*" 1 1))))
+   (def-params nil)
+   nil nil nil))
