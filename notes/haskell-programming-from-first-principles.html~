@@ -6,16 +6,16 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Haskell Programming From First Principles</title>
-<meta name="generator" content="Org Mode" />
+<meta name="generator" content="Org mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Haskell Programming From First Principles</h1>
 
-<div id="outline-container-org04384eb" class="outline-2">
-<h2 id="org04384eb">Preface</h2>
-<div class="outline-text-2" id="text-org04384eb">
+<div id="outline-container-org5b04443" class="outline-2">
+<h2 id="org5b04443">Preface</h2>
+<div class="outline-text-2" id="text-org5b04443">
 <ol class="org-ol">
 <li>Configure hexchat or irrsi in emacs to access #haskell-beginners freenode channel</li>
 <li>Spaced repetition and iterative deepening are effective strategies of learning.</li>
@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div id="outline-container-org52c469e" class="outline-2">
-<h2 id="org52c469e">Chapter 1 - All you need is lambda</h2>
-<div class="outline-text-2" id="text-org52c469e">
+<div id="outline-container-org690f4dd" class="outline-2">
+<h2 id="org690f4dd">Chapter 1 - All you need is lambda</h2>
+<div class="outline-text-2" id="text-org690f4dd">
 <ol class="org-ol">
 <li>In the Lambda expression - λx.x and λx.xa</li>
 <li>.x is called bound variable, a is called free variable.</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org7819305" class="outline-2">
-<h2 id="org7819305">Chapter 2 - Hello Haskell</h2>
-<div class="outline-text-2" id="text-org7819305">
+<div id="outline-container-orge1caff4" class="outline-2">
+<h2 id="orge1caff4">Chapter 2 - Hello Haskell</h2>
+<div class="outline-text-2" id="text-orge1caff4">
 <ol class="org-ol">
 <li>Reducible expressions are called redexes. Ex: 1+1</li>
 <li>Currying -  applying a series of nested functions, each to an argument.</li>
@@ -68,9 +68,9 @@ Haskell evaluates to weak head normal form by default. ex: (f -&gt; (1, 2+f)) 2
 </div>
 </div>
 
-<div id="outline-container-org1f5b214" class="outline-2">
-<h2 id="org1f5b214">Chapter 3 - Strings</h2>
-<div class="outline-text-2" id="text-org1f5b214">
+<div id="outline-container-org4e9e5ed" class="outline-2">
+<h2 id="org4e9e5ed">Chapter 3 - Strings</h2>
+<div class="outline-text-2" id="text-org4e9e5ed">
 <ol class="org-ol">
 <li>concat :: -&gt; [a]</li>
 <li><p>
@@ -85,9 +85,9 @@ Prelude has functions with exceptions:
 </div>
 </div>
 
-<div id="outline-container-orgabe016c" class="outline-2">
-<h2 id="orgabe016c">Chapter 4 - Basic Datatypes</h2>
-<div class="outline-text-2" id="text-orgabe016c">
+<div id="outline-container-orgc05bf64" class="outline-2">
+<h2 id="orgc05bf64">Chapter 4 - Basic Datatypes</h2>
+<div class="outline-text-2" id="text-orgc05bf64">
 <ol class="org-ol">
 <li>Int size has a min and max range. Integer size depends on the system.</li>
 <li>floating point can shift how many bits it uses to represent numbers before or after the decimal point.(DO NOT USE IN BUSINESS APPLICATIONS.)</li>
@@ -112,9 +112,9 @@ values of Fractional a =&gt; a default to the floating point doucble. It is bett
 </div>
 </div>
 
-<div id="outline-container-orga88e855" class="outline-2">
-<h2 id="orga88e855">Chapter 5 - Types</h2>
-<div class="outline-text-2" id="text-orga88e855">
+<div id="outline-container-org000a67d" class="outline-2">
+<h2 id="org000a67d">Chapter 5 - Types</h2>
+<div class="outline-text-2" id="text-org000a67d">
 <ol class="org-ol">
 <li>(-&gt;) is an infix operator and right associative.</li>
 </ol>
@@ -142,9 +142,9 @@ f 1 :: Num a =&gt; a -&gt; a
 </div>
 </div>
 
-<div id="outline-container-orga7ad7b6" class="outline-2">
-<h2 id="orga7ad7b6">Chapter 6 - Types</h2>
-<div class="outline-text-2" id="text-orga7ad7b6">
+<div id="outline-container-org08094c1" class="outline-2">
+<h2 id="org08094c1">Chapter 6 - Types</h2>
+<div class="outline-text-2" id="text-org08094c1">
 <ol class="org-ol">
 <li>Do not use Read for Bool.</li>
 <li>Enum must be members of Ord, All members of Ord must be member of Num</li>
@@ -153,9 +153,9 @@ f 1 :: Num a =&gt; a -&gt; a
 </div>
 </div>
 
-<div id="outline-container-org43c7535" class="outline-2">
-<h2 id="org43c7535">Chapter 11 - Algebraic Datatypes</h2>
-<div class="outline-text-2" id="text-org43c7535">
+<div id="outline-container-orgaea3fc0" class="outline-2">
+<h2 id="orgaea3fc0">Chapter 11 - Algebraic Datatypes</h2>
+<div class="outline-text-2" id="text-orgaea3fc0">
 <ol class="org-ol">
 <li>Type constructors are used only in Type Signatures, Data constructors are used at term level.</li>
 <li>Type and data constructors that take no arguments are constants. In the context of type constructor, its type signature is a concrete type.
@@ -174,9 +174,9 @@ an empty list has to be applied to a concrete type before it is itself a concret
 </div>
 </div>
 
-<div id="outline-container-org48cf700" class="outline-2">
-<h2 id="org48cf700">chapter 12 - Signaling adversity</h2>
-<div class="outline-text-2" id="text-org48cf700">
+<div id="outline-container-org10f4092" class="outline-2">
+<h2 id="org10f4092">chapter 12 - Signaling adversity</h2>
+<div class="outline-text-2" id="text-org10f4092">
 <ol class="org-ol">
 <li><p>
 #+begin<sub>src</sub> haskell
@@ -220,7 +220,7 @@ mkPerson name age
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2022-06-26 Sun 00:00</p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 </div>
 </body>
 </html>

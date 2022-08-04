@@ -6,16 +6,16 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Get Programming With Haskell</title>
-<meta name="generator" content="Org Mode" />
+<meta name="generator" content="Org mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Get Programming With Haskell</h1>
 
-<div id="outline-container-orgfddb80d" class="outline-2">
-<h2 id="orgfddb80d">chapter 17 Semigroups and Monoids</h2>
-<div class="outline-text-2" id="text-orgfddb80d">
+<div id="outline-container-org7ddb720" class="outline-2">
+<h2 id="org7ddb720">chapter 17 Semigroups and Monoids</h2>
+<div class="outline-text-2" id="text-org7ddb720">
 <p>
 1.Monoid requires you to specify an identity element.
 </p>
@@ -23,7 +23,7 @@
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 </div>
 </body>
 </html>
